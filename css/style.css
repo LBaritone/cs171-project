@@ -151,8 +151,9 @@ iframe {
 
 #vis2can {
     width: 130px;
-    /*margin-left: 30px;*/
-    margin-top: 20px;
+    margin-left: -1.4em;
+    margin-top: 4em;
+    visibility: hidden;
 }
 
 .fa {
@@ -162,12 +163,11 @@ iframe {
 .vis2drugs {
     margin-top: 30px;
     visibility: hidden;
-    /*transition: 2s;*/
 }
 
 .fa-car {
     /*margin-left: -130px;*/
-    margin-top: 50px;
+    margin-top: 0.5em;
     text-align: right;
 }
 
@@ -175,12 +175,46 @@ iframe {
     margin-top: 10vh;
 }
 
+.top_row_gun {
+    margin-top: 7vh;
+}
+
+.top_row_car {
+    margin-top: 17vh;
+}
+
 .row_bellow {
     margin-top: 7%;
 }
 
+.big_row {
+    margin-top: 27%;
+}
+
 #vis2gun {
     max-width: 220px;
+    visibility: hidden;
+}
+
+#vis2car_icon {
+    visibility: hidden;
+}
+
+
+.fade {
+    visibility: hidden;
+}
+
+#gun_text {
+    visibility: hidden;
+}
+
+#car_text {
+    visibility: hidden;
+}
+
+#drug_text { 
+    visibility: hidden;
 }
 
 .vis2car {
@@ -198,11 +232,11 @@ iframe {
 }
 
 .vis3_section {
-    background-color: #5f6765;
+    background-color: #4f5357;
 }
 
 .vis4_section {
-    background-color: #5f6765;
+    background-color: #4f5357;
 }
 
 #vis4 {

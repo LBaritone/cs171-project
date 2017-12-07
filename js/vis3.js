@@ -1,6 +1,9 @@
+
+var chart = document.getElementById("vis3");
+
 // SVG margin convention
-var vis3_margin = {top: 40, right: 20, bottom: 60, left: 50},
-            vis3_width = 500 - vis3_margin.left - vis3_margin.right,
+var vis3_margin = {top: 40, right: 50, bottom: 60, left: 75},
+            vis3_width = (chart.clientWidth * (5.0/6.0)) - vis3_margin.left - vis3_margin.right,
             vis3_height = 500 - vis3_margin.top - vis3_margin.bottom;
 
 // make a new svg drawing area
@@ -552,40 +555,40 @@ function updateLine (){
 
         // append conjoining text to visualization with facts pertaining
         // to the current category
-        d3.select(".dynamic_text").remove();
-        d3.select(".vis3text")
-            .append("p")     
-            .attr("class", "dynamic_text")
-            .style("opacity", 0)
-            .text(function() {
-                if (cat == "default") {
-                    return "Opioid addictions account for the " + 
-                           "65% of drug overdoeses, with 20,000 deaths from" +
-                           "legal opioids and 13,000 deaths from heroin in 2015."
-                } else if (cat == "other") {
-                    return "Lorem ipsum dolor sit amet, consectetur adipiscing " +
-                           "elit. Fusce massa est, laoreet vitae varius eget, " +
-                           "volutpat vel tortor. Nunc aliquet elementum urna, " +
-                           "eu condimentum dui consectetur eget";
-                } else if (cat == "Sex") {
-                    return "Nullam eros ex, congue feugiat ultrices posuere, " +
-                           "dapibus quis neque. Cras ullamcorper commodo purus, " + 
-                           "quis hendrerit dui auctor et. Etiam eu mi libero.";
-                } else if (cat == "Race") {
-                    return "Vivamus tincidunt erat et tincidunt vestibulum. " +
-                           "Phasellus aliquam vitae nisl ut suscipit. Donec " +
-                           "eget velit ut leo volutpat bibendum. Aenean orci. ";
-                } else if (cat == "Age") {
-                    return "Etiam laoreet vestibulum rutrum. Mauris sem erat, " +
-                           "volutpat ac consequat in, scelerisque ac felis. " +
-                           "Curabitur ut tortor commodo, facilisis diam a, " +
-                           "facilisis quam.";
-                }
-            })
-            .transition()
-                .style("opacity", 1)
-                .delay(1000)
-                .ease(d3.easeLinear);
+        // d3.select(".dynamic_text").remove();
+        // d3.select(".vis3text")
+        //     .append("p")     
+        //     .attr("class", "dynamic_text")
+        //     .style("opacity", 0)
+        //     .text(function() {
+        //         if (cat == "default") {
+        //             return "Opioid addictions account for the " + 
+        //                    "65% of drug overdoeses, with 20,000 deaths from" +
+        //                    "legal opioids and 13,000 deaths from heroin in 2015."
+        //         } else if (cat == "other") {
+        //             return "Lorem ipsum dolor sit amet, consectetur adipiscing " +
+        //                    "elit. Fusce massa est, laoreet vitae varius eget, " +
+        //                    "volutpat vel tortor. Nunc aliquet elementum urna, " +
+        //                    "eu condimentum dui consectetur eget";
+        //         } else if (cat == "Sex") {
+        //             return "Nullam eros ex, congue feugiat ultrices posuere, " +
+        //                    "dapibus quis neque. Cras ullamcorper commodo purus, " + 
+        //                    "quis hendrerit dui auctor et. Etiam eu mi libero.";
+        //         } else if (cat == "Race") {
+        //             return "Vivamus tincidunt erat et tincidunt vestibulum. " +
+        //                    "Phasellus aliquam vitae nisl ut suscipit. Donec " +
+        //                    "eget velit ut leo volutpat bibendum. Aenean orci. ";
+        //         } else if (cat == "Age") {
+        //             return "Etiam laoreet vestibulum rutrum. Mauris sem erat, " +
+        //                    "volutpat ac consequat in, scelerisque ac felis. " +
+        //                    "Curabitur ut tortor commodo, facilisis diam a, " +
+        //                    "facilisis quam.";
+        //         }
+        //     })
+        //     .transition()
+        //         .style("opacity", 1)
+        //         .delay(1000)
+        //         .ease(d3.easeLinear);
                 
 
 
