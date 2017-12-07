@@ -1,0 +1,279 @@
+body{
+    /*background-color: #627671;*/
+    /*padding: 10px;*/
+    overflow: hidden;
+    width: 100%;
+}
+
+.container-fluid {
+    /*background-color: #72928a;*/
+    padding: 0;
+}
+
+.section {
+    /*background-color: #627671;*/
+    background-color: #585d61;
+}
+
+.spaced_up_vis1 {
+    margin-top: -4em;
+}
+
+
+/***STYLES FOR TITLES***/
+h1 {
+   color: whitesmoke;
+    font-family: Verdana;
+    font-size:70px;
+}
+h2 {
+    color: whitesmoke;
+    font-family: Verdana;
+    padding-top: 50px;
+}
+h3 {
+    color: whitesmoke;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+h5 {
+    margin-top: -2em;
+    color: whitesmoke;
+    font-family: Verdana;
+    font-size: 45px;
+}
+
+/**STYLES FOR PARAGRAPHS*/
+p{
+    color: white;
+    font-family: Verdana;
+    padding: 5px;
+}
+
+/***STYLES FOR BUTTONS***/
+/***W3Schools Button Styling**/
+.button {
+    background-color: darkorange; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Verdana;
+    align: "center";
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+.button:hover span {
+    padding-right: 25px;
+}
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+/***STYLES FOR IMAGE (Samples to be Later Turned into Visualizations***/
+img{
+    padding: 20px;
+}
+
+/**STYLES FOR EMBEDDED YOUTUBE VIDEO**/
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+#select1{
+    padding-left: 20px;
+    width: 500px;
+    align: "center";
+}
+
+#select2 {
+    max-width: 500px;
+    padding-left: 15em;
+}
+
+.spaced {
+    margin-top: -100px
+}
+
+.vis3select {
+    margin-top: -100px
+}
+
+.title {
+    color: whitesmoke;
+    font-family: Verdana;
+    font-size: 1.4em;
+}
+
+#space_up {
+    margin-top: -2em;
+}
+
+#select1 {
+    width: 13em;
+}
+
+#toggle_text {
+    font-size: 14px;
+}
+
+#vis3title {
+    padding-bottom: 1em;
+}
+
+.lined {
+    display: block;
+}
+
+.red {
+    color: #c80e05;
+}
+
+#vis2can {
+    width: 130px;
+    /*margin-left: 30px;*/
+    margin-top: 20px;
+}
+
+.fa {
+    color: white;
+}
+
+.vis2drugs {
+    margin-top: 30px;
+    visibility: hidden;
+    /*transition: 2s;*/
+}
+
+.fa-car {
+    /*margin-left: -130px;*/
+    margin-top: 50px;
+    text-align: right;
+}
+
+.top_row {
+    margin-top: 10vh;
+}
+
+.row_bellow {
+    margin-top: 7%;
+}
+
+#vis2gun {
+    max-width: 220px;
+}
+
+.vis2car {
+    margin-top: 30px;
+    visibility: hidden;
+}
+
+.vis2guns {
+    margin-top: 30px;
+    visibility: hidden;
+}
+
+.icons {
+    /*max-width: 390px;*/
+}
+
+.vis3_section {
+    background-color: #5f6765;
+}
+
+.vis4_section {
+    background-color: #5f6765;
+}
+
+#vis4 {
+    margin-left: 2em;
+}
+
+.dynamic_text {
+    margin-top: 20%;
+    margin-right: 12%;
+    font-size: 2em;
+}
+
+.input {
+    max-width: 300px;
+    margin-left: 1.5em;
+}
+
+#zip_button_case {
+    padding-top: 25px;
+}
+
+#zip_button {
+    background-color: #a81a24; 
+}
+
+#vis5 {
+    width: 660px;
+    height: 220px;
+}
+
+.vis5text {
+    text-align: center;
+    margin-left: -2em;
+}
+
+.vis5text1 {
+    color: #93adbf;
+    font-size: 45px;
+}
+
+.vis5text2 {
+    font-size: 20px;
+}
+
+.vis5text3 {
+    font-size: 25px;
+}
+
+.vis5text4 {
+    font-size: 25px;
+}
+
+#narcam_img {
+    width: 18em;
+}
+
+a {
+    color: #a81a24;
+}
+
+#narcam_text {
+    font-size: 1.3em;
+    padding-top: 5%;
+}
+
+.spaced_right {
+    padding-left: 30px;
+}
+
+
+@font-face {
+    font-family: "Font Awesome";
+    src: url(font-awsome-4.7.0/fonts/fontawesome-webfont.ttf) format("truetype");
+}

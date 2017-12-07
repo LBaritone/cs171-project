@@ -1,0 +1,38 @@
+h9 {
+    color: whitesmoke;
+    font-family: Verdana;
+    font-size: 12px;
+    text-align:right;
+}
+
+.vis1_form{
+    color:lightgray;
+}
+
+#vis1_singleYear{
+    color:black;
+}
+
+#vis1_methadone_text{
+    color:white;
+}
+
+#vis1_morphine_text{
+    color:#46b8da;
+}
+
+#vis1_pethidine_text{
+    color:#FEFE33;
+}
+
+#vis1_oxycodone_text{
+    color:#ff33ff;
+}
+
+#vis1_fentanyl_text{
+    color:#FE2712;
+}
+
+#vis1_hydromorphone_text{
+    color:#66B032;
+}

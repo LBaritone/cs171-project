@@ -1,0 +1,3622 @@
+{
+  "USA": [
+    {
+      "Year": 1980,
+      "Methadone": "6847.69",
+      "Morphine": "667.02",
+      "Pethidine": "3513.49",
+      "Oxycodone": "2851.05",
+      "Fentanyl": "202.21",
+      "Hydromorphone": "754.96",
+      "Total": "14836.42"
+    },
+    {
+      "Year": 1981,
+      "Methadone": "7420.11",
+      "Morphine": "680.68",
+      "Pethidine": "3469.76",
+      "Oxycodone": "2805.52",
+      "Fentanyl": "252.68",
+      "Hydromorphone": "839.19",
+      "Total": "15467.93"
+    },
+    {
+      "Year": 1982,
+      "Methadone": "7173.98",
+      "Morphine": "725.84",
+      "Pethidine": "3364.34",
+      "Oxycodone": "2968.55",
+      "Fentanyl": "244.33",
+      "Hydromorphone": "903.89",
+      "Total": "15380.95"
+    },
+    {
+      "Year": 1983,
+      "Methadone": "7371.16",
+      "Morphine": "824.49",
+      "Pethidine": "3300.59",
+      "Oxycodone": "3113.59",
+      "Fentanyl": "307.44",
+      "Hydromorphone": "978.04",
+      "Total": "15895.31"
+    },
+    {
+      "Year": 1984,
+      "Methadone": "7592.97",
+      "Morphine": "961.82",
+      "Pethidine": "3339.99",
+      "Oxycodone": "3640.22",
+      "Fentanyl": "362.4",
+      "Hydromorphone": "1037.01",
+      "Total": "16934.41"
+    },
+    {
+      "Year": 1985,
+      "Methadone": "7976.21",
+      "Morphine": "1358.96",
+      "Pethidine": "2987.77",
+      "Oxycodone": "3424.45",
+      "Fentanyl": "340.07",
+      "Hydromorphone": "1073.91",
+      "Total": "17161.34"
+    },
+    {
+      "Year": 1986,
+      "Methadone": "7598.89",
+      "Morphine": "1782.8",
+      "Pethidine": "2881.12",
+      "Oxycodone": "3630.92",
+      "Fentanyl": "379.88",
+      "Hydromorphone": "1110.15",
+      "Total": "17383.76"
+    },
+    {
+      "Year": 1987,
+      "Methadone": "7927.26",
+      "Morphine": "2222.7",
+      "Pethidine": "2599.99",
+      "Oxycodone": "3744.19",
+      "Fentanyl": "373.46",
+      "Hydromorphone": "1015.63",
+      "Total": "17883.26"
+    },
+    {
+      "Year": 1988,
+      "Methadone": "8398.59",
+      "Morphine": "2812",
+      "Pethidine": "2662.94",
+      "Oxycodone": "3700.49",
+      "Fentanyl": "666.74",
+      "Hydromorphone": "1045.29",
+      "Total": "19286.05"
+    },
+    {
+      "Year": 1989,
+      "Methadone": "8805.57",
+      "Morphine": "3290.57",
+      "Pethidine": "2519.07",
+      "Oxycodone": "3840.88",
+      "Fentanyl": "426.11",
+      "Hydromorphone": "1080.23",
+      "Total": "19962.46"
+    },
+    {
+      "Year": 1990,
+      "Methadone": "9806.78",
+      "Morphine": "3934.35",
+      "Pethidine": "2414.69",
+      "Oxycodone": "4044.8",
+      "Fentanyl": "693.96",
+      "Hydromorphone": "1119.57",
+      "Total": "22014.16"
+    },
+    {
+      "Year": 1991,
+      "Methadone": "10072.77",
+      "Morphine": "4221.62",
+      "Pethidine": "2363.63",
+      "Oxycodone": "4035.03",
+      "Fentanyl": "3460.62",
+      "Hydromorphone": "1251.58",
+      "Total": "25405.22"
+    },
+    {
+      "Year": 1992,
+      "Methadone": "10788.49",
+      "Morphine": "5305.61",
+      "Pethidine": "2139.57",
+      "Oxycodone": "4263.99",
+      "Fentanyl": "4202.96",
+      "Hydromorphone": "1207.22",
+      "Total": "27907.88"
+    },
+    {
+      "Year": 1993,
+      "Methadone": "12572.62",
+      "Morphine": "6824.29",
+      "Pethidine": "1975.59",
+      "Oxycodone": "4431.1",
+      "Fentanyl": "4192.31",
+      "Hydromorphone": "1318.55",
+      "Total": "31314.49"
+    },
+    {
+      "Year": 1994,
+      "Methadone": "13269.97",
+      "Morphine": "6604.94",
+      "Pethidine": "2086.22",
+      "Oxycodone": "4890.35",
+      "Fentanyl": "6154.71",
+      "Hydromorphone": "1353.56",
+      "Total": "34359.75"
+    },
+    {
+      "Year": 1995,
+      "Methadone": "16337.23",
+      "Morphine": "6948.5",
+      "Pethidine": "2147.54",
+      "Oxycodone": "4927.66",
+      "Fentanyl": "7325.37",
+      "Hydromorphone": "1614.07",
+      "Total": "39300.4"
+    },
+    {
+      "Year": 1996,
+      "Methadone": "17556.97",
+      "Morphine": "8013.2",
+      "Pethidine": "2034.37",
+      "Oxycodone": "6009.22",
+      "Fentanyl": "7561.35",
+      "Hydromorphone": "1706.03",
+      "Total": "42881.15"
+    },
+    {
+      "Year": 1997,
+      "Methadone": "16534.6",
+      "Morphine": "8144.9",
+      "Pethidine": "2029.31",
+      "Oxycodone": "8743.06",
+      "Fentanyl": "8536.01",
+      "Hydromorphone": "1611.96",
+      "Total": "45599.83"
+    },
+    {
+      "Year": 1998,
+      "Methadone": "18829.74",
+      "Morphine": "9836.22",
+      "Pethidine": "2114.37",
+      "Oxycodone": "11212.45",
+      "Fentanyl": "10474.28",
+      "Hydromorphone": "2842.99",
+      "Total": "55310.08"
+    },
+    {
+      "Year": 1999,
+      "Methadone": "24594.1",
+      "Morphine": "9171.35",
+      "Pethidine": "2023.84",
+      "Oxycodone": "17885.25",
+      "Fentanyl": "12477.38",
+      "Hydromorphone": "1984.28",
+      "Total": "68136.2"
+    },
+    {
+      "Year": 2000,
+      "Methadone": "23146.38",
+      "Morphine": "9336.41",
+      "Pethidine": "1910.13",
+      "Oxycodone": "25646.29",
+      "Fentanyl": "15627.2",
+      "Hydromorphone": "1810.81",
+      "Total": "77477.22"
+    },
+    {
+      "Year": 2001,
+      "Methadone": "30186",
+      "Morphine": "10984.22",
+      "Pethidine": "1741.88",
+      "Oxycodone": "31934.11",
+      "Fentanyl": "18009.68",
+      "Hydromorphone": "2546.17",
+      "Total": "95402.06"
+    },
+    {
+      "Year": 2002,
+      "Methadone": "38312.28",
+      "Morphine": "14237.98",
+      "Pethidine": "1824.92",
+      "Oxycodone": "35594.73",
+      "Fentanyl": "23937.83",
+      "Hydromorphone": "2880.3",
+      "Total": "116788.03"
+    },
+    {
+      "Year": 2003,
+      "Methadone": "43855.93",
+      "Morphine": "14780.33",
+      "Pethidine": "1591.53",
+      "Oxycodone": "43334.99",
+      "Fentanyl": "33127.01",
+      "Hydromorphone": "3757.09",
+      "Total": "140446.84"
+    },
+    {
+      "Year": 2004,
+      "Methadone": "51612.57",
+      "Morphine": "15435.14",
+      "Pethidine": "1513.62",
+      "Oxycodone": "45488.5",
+      "Fentanyl": "38182.41",
+      "Hydromorphone": "4135.83",
+      "Total": "156368.08"
+    },
+    {
+      "Year": 2005,
+      "Methadone": "56996.98",
+      "Morphine": "17269.61",
+      "Pethidine": "1437.45",
+      "Oxycodone": "49885.67",
+      "Fentanyl": "47384.12",
+      "Hydromorphone": "5541.25",
+      "Total": "178515.11"
+    },
+    {
+      "Year": 2006,
+      "Methadone": "62328.74",
+      "Morphine": "18304.44",
+      "Pethidine": "1170.64",
+      "Oxycodone": "48034.32",
+      "Fentanyl": "55142.69",
+      "Hydromorphone": "5686.95",
+      "Total": "190667.81"
+    },
+    {
+      "Year": 2007,
+      "Methadone": "63617.76",
+      "Morphine": "24263.73",
+      "Pethidine": "1031.22",
+      "Oxycodone": "59540.08",
+      "Fentanyl": "55082.39",
+      "Hydromorphone": "6101.77",
+      "Total": "209636.96"
+    },
+    {
+      "Year": 2008,
+      "Methadone": "60827.55",
+      "Morphine": "21048.86",
+      "Pethidine": "1025.85",
+      "Oxycodone": "55204.41",
+      "Fentanyl": "61626.05",
+      "Hydromorphone": "5159.5",
+      "Total": "204892.26"
+    },
+    {
+      "Year": 2009,
+      "Methadone": "61596.8",
+      "Morphine": "23517.56",
+      "Pethidine": "895.76",
+      "Oxycodone": "83371.47",
+      "Fentanyl": "48815.37",
+      "Hydromorphone": "11096.19",
+      "Total": "229293.19"
+    },
+    {
+      "Year": 2010,
+      "Methadone": "62290.01",
+      "Morphine": "23296.48",
+      "Pethidine": "722.8",
+      "Oxycodone": "79923.09",
+      "Fentanyl": "43340.05",
+      "Hydromorphone": "9695.01",
+      "Total": "219267.44"
+    },
+    {
+      "Year": 2011,
+      "Methadone": "61765.02",
+      "Morphine": "23328.57",
+      "Pethidine": "587.15",
+      "Oxycodone": "88920.88",
+      "Fentanyl": "48254.3",
+      "Hydromorphone": "14226.41",
+      "Total": "237082.3"
+    },
+    {
+      "Year": 2012,
+      "Methadone": "60868.75",
+      "Morphine": "24861.07",
+      "Pethidine": "423.87",
+      "Oxycodone": "102525.92",
+      "Fentanyl": "39141.96",
+      "Hydromorphone": "7175.59",
+      "Total": "234997.15"
+    },
+    {
+      "Year": 2013,
+      "Methadone": "62387.11",
+      "Morphine": "25263.15",
+      "Pethidine": "391.71",
+      "Oxycodone": "83849.47",
+      "Fentanyl": "44408.84",
+      "Hydromorphone": "10697.36",
+      "Total": "226997.64"
+    },
+    {
+      "Year": 2014,
+      "Methadone": "62977.05",
+      "Morphine": "23330.56",
+      "Pethidine": "359.9",
+      "Oxycodone": "81965.46",
+      "Fentanyl": "37947.95",
+      "Hydromorphone": "15005.56",
+      "Total": "221586.45"
+    },
+    {
+      "Year": 2015,
+      "Methadone": "61014.46",
+      "Morphine": "19285.32",
+      "Pethidine": "283.06",
+      "Oxycodone": "81758.73",
+      "Fentanyl": "40272.02",
+      "Hydromorphone": "11697.03",
+      "Total": "214310.65"
+    }
+  ],
+  "Germany": [
+    {
+      "Year": 1980,
+      "Methadone": "50.94",
+      "Morphine": "27.12",
+      "Pethidine": "91.35",
+      "Oxycodone": "7.09",
+      "Fentanyl": "118.68",
+      "Hydromorphone": "12.94",
+      "Total": "308.12"
+    },
+    {
+      "Year": 1981,
+      "Methadone": "48.36",
+      "Morphine": "24.65",
+      "Pethidine": "86.19",
+      "Oxycodone": "5.73",
+      "Fentanyl": "132.4",
+      "Hydromorphone": "11.94",
+      "Total": "309.25"
+    },
+    {
+      "Year": 1982,
+      "Methadone": "47.48",
+      "Morphine": "23.04",
+      "Pethidine": "79.08",
+      "Oxycodone": "5.97",
+      "Fentanyl": "99.24",
+      "Hydromorphone": "9.71",
+      "Total": "264.52"
+    },
+    {
+      "Year": 1983,
+      "Methadone": "47.62",
+      "Morphine": "24.71",
+      "Pethidine": "76.66",
+      "Oxycodone": "4.81",
+      "Fentanyl": "126.21",
+      "Hydromorphone": "10.13",
+      "Total": "290.12"
+    },
+    {
+      "Year": 1984,
+      "Methadone": "48.57",
+      "Morphine": "36.32",
+      "Pethidine": "78.88",
+      "Oxycodone": "4.66",
+      "Fentanyl": "126.41",
+      "Hydromorphone": "8.94",
+      "Total": "303.78"
+    },
+    {
+      "Year": 1985,
+      "Methadone": "55.17",
+      "Morphine": "62.99",
+      "Pethidine": "78.77",
+      "Oxycodone": "4.22",
+      "Fentanyl": "139.18",
+      "Hydromorphone": "14.25",
+      "Total": "354.59"
+    },
+    {
+      "Year": 1986,
+      "Methadone": "57.14",
+      "Morphine": "89.42",
+      "Pethidine": "81.22",
+      "Oxycodone": "3.55",
+      "Fentanyl": "143.95",
+      "Hydromorphone": "9.18",
+      "Total": "384.45"
+    },
+    {
+      "Year": 1987,
+      "Methadone": "50.98",
+      "Morphine": "140.92",
+      "Pethidine": "74.77",
+      "Oxycodone": "2.28",
+      "Fentanyl": "161.46",
+      "Hydromorphone": "8.63",
+      "Total": "439.06"
+    },
+    {
+      "Year": 1988,
+      "Methadone": "61.34",
+      "Morphine": "186.29",
+      "Pethidine": "68.88",
+      "Oxycodone": "0.53",
+      "Fentanyl": "176.49",
+      "Hydromorphone": "9.37",
+      "Total": "502.9"
+    },
+    {
+      "Year": 1989,
+      "Methadone": "83.77",
+      "Morphine": "241.01",
+      "Pethidine": "62.97",
+      "Oxycodone": "0.31",
+      "Fentanyl": "205.44",
+      "Hydromorphone": "9.92",
+      "Total": "603.43"
+    },
+    {
+      "Year": 1990,
+      "Methadone": "122.23",
+      "Morphine": "274.88",
+      "Pethidine": "125.48",
+      "Oxycodone": "0.07",
+      "Fentanyl": "179.89",
+      "Hydromorphone": "5.3",
+      "Total": "707.84"
+    },
+    {
+      "Year": 1991,
+      "Methadone": "161.79",
+      "Morphine": "348.3",
+      "Pethidine": "74.76",
+      "Oxycodone": "0",
+      "Fentanyl": "214.4",
+      "Hydromorphone": "7.02",
+      "Total": "806.25"
+    },
+    {
+      "Year": 1992,
+      "Methadone": "291.89",
+      "Morphine": "412.92",
+      "Pethidine": "59.62",
+      "Oxycodone": "N/A",
+      "Fentanyl": "241.88",
+      "Hydromorphone": "8.17",
+      "Total": "1014.48"
+    },
+    {
+      "Year": 1993,
+      "Methadone": "492.31",
+      "Morphine": "592.01",
+      "Pethidine": "55.98",
+      "Oxycodone": "0",
+      "Fentanyl": "251.64",
+      "Hydromorphone": "6.96",
+      "Total": "1398.89"
+    },
+    {
+      "Year": 1994,
+      "Methadone": "1271.81",
+      "Morphine": "601.65",
+      "Pethidine": "53.91",
+      "Oxycodone": "1.19",
+      "Fentanyl": "256.78",
+      "Hydromorphone": "12.69",
+      "Total": "2198.02"
+    },
+    {
+      "Year": 1995,
+      "Methadone": "1780.63",
+      "Morphine": "800.71",
+      "Pethidine": "58.79",
+      "Oxycodone": "0",
+      "Fentanyl": "301.48",
+      "Hydromorphone": "8.34",
+      "Total": "2949.95"
+    },
+    {
+      "Year": 1996,
+      "Methadone": "2225.46",
+      "Morphine": "882.19",
+      "Pethidine": "60.32",
+      "Oxycodone": "0",
+      "Fentanyl": "599.59",
+      "Hydromorphone": "7.05",
+      "Total": "3774.61"
+    },
+    {
+      "Year": 1997,
+      "Methadone": "2504.42",
+      "Morphine": "1035.75",
+      "Pethidine": "53.38",
+      "Oxycodone": "N/A",
+      "Fentanyl": "725.07",
+      "Hydromorphone": "10.09",
+      "Total": "4328.71"
+    },
+    {
+      "Year": 1998,
+      "Methadone": "3491.32",
+      "Morphine": "1198.37",
+      "Pethidine": "57.88",
+      "Oxycodone": "42.76",
+      "Fentanyl": "1221.66",
+      "Hydromorphone": "10.78",
+      "Total": "6022.78"
+    },
+    {
+      "Year": 1999,
+      "Methadone": "3001.56",
+      "Morphine": "1360.11",
+      "Pethidine": "54.21",
+      "Oxycodone": "197.87",
+      "Fentanyl": "2370.22",
+      "Hydromorphone": "86.94",
+      "Total": "7070.89"
+    },
+    {
+      "Year": 2000,
+      "Methadone": "5471.15",
+      "Morphine": "1422.11",
+      "Pethidine": "46",
+      "Oxycodone": "301.66",
+      "Fentanyl": "3564.9",
+      "Hydromorphone": "141.04",
+      "Total": "10946.86"
+    },
+    {
+      "Year": 2001,
+      "Methadone": "4507.66",
+      "Morphine": "1144.25",
+      "Pethidine": "59.68",
+      "Oxycodone": "439.23",
+      "Fentanyl": "3366.07",
+      "Hydromorphone": "209.1",
+      "Total": "9725.99"
+    },
+    {
+      "Year": 2002,
+      "Methadone": "3585.44",
+      "Morphine": "1424.15",
+      "Pethidine": "43.38",
+      "Oxycodone": "647.38",
+      "Fentanyl": "5981.74",
+      "Hydromorphone": "287.4",
+      "Total": "11969.5"
+    },
+    {
+      "Year": 2003,
+      "Methadone": "3958",
+      "Morphine": "1480.85",
+      "Pethidine": "42.04",
+      "Oxycodone": "923.27",
+      "Fentanyl": "6451.61",
+      "Hydromorphone": "418.06",
+      "Total": "13273.83"
+    },
+    {
+      "Year": 2004,
+      "Methadone": "4311.46",
+      "Morphine": "1292.16",
+      "Pethidine": "49.1",
+      "Oxycodone": "1378.99",
+      "Fentanyl": "9724.79",
+      "Hydromorphone": "556.03",
+      "Total": "17312.53"
+    },
+    {
+      "Year": 2005,
+      "Methadone": "4411.74",
+      "Morphine": "1970.48",
+      "Pethidine": "38.87",
+      "Oxycodone": "2018.22",
+      "Fentanyl": "11536.71",
+      "Hydromorphone": "726.96",
+      "Total": "20703"
+    },
+    {
+      "Year": 2006,
+      "Methadone": "4611.8",
+      "Morphine": "1247.46",
+      "Pethidine": "25.42",
+      "Oxycodone": "1571.71",
+      "Fentanyl": "22010.44",
+      "Hydromorphone": "1146.21",
+      "Total": "30613.04"
+    },
+    {
+      "Year": 2007,
+      "Methadone": "4643.11",
+      "Morphine": "1854.25",
+      "Pethidine": "51.37",
+      "Oxycodone": "2098.25",
+      "Fentanyl": "20347.44",
+      "Hydromorphone": "1484.68",
+      "Total": "30479.11"
+    },
+    {
+      "Year": 2008,
+      "Methadone": "6945.98",
+      "Morphine": "1814.6",
+      "Pethidine": "37.22",
+      "Oxycodone": "2566.18",
+      "Fentanyl": "19719.07",
+      "Hydromorphone": "2243.75",
+      "Total": "33326.8"
+    },
+    {
+      "Year": 2009,
+      "Methadone": "4982.98",
+      "Morphine": "1818.88",
+      "Pethidine": "35.11",
+      "Oxycodone": "2731.47",
+      "Fentanyl": "16519.85",
+      "Hydromorphone": "1727.69",
+      "Total": "27815.98"
+    },
+    {
+      "Year": 2010,
+      "Methadone": "3571.07",
+      "Morphine": "1792.32",
+      "Pethidine": "24.11",
+      "Oxycodone": "3192.35",
+      "Fentanyl": "19889.85",
+      "Hydromorphone": "1872.51",
+      "Total": "30342.21"
+    },
+    {
+      "Year": 2011,
+      "Methadone": "5204.28",
+      "Morphine": "1831.99",
+      "Pethidine": "27.12",
+      "Oxycodone": "3393.77",
+      "Fentanyl": "20016.88",
+      "Hydromorphone": "1449.29",
+      "Total": "31923.32"
+    },
+    {
+      "Year": 2012,
+      "Methadone": "4946.85",
+      "Morphine": "1493.22",
+      "Pethidine": "25.8",
+      "Oxycodone": "3646.08",
+      "Fentanyl": "8482.83",
+      "Hydromorphone": "2122.09",
+      "Total": "20716.87"
+    },
+    {
+      "Year": 2013,
+      "Methadone": "3870.47",
+      "Morphine": "1230.22",
+      "Pethidine": "23.91",
+      "Oxycodone": "3730.03",
+      "Fentanyl": "38255.38",
+      "Hydromorphone": "2370.18",
+      "Total": "49480.17"
+    },
+    {
+      "Year": 2014,
+      "Methadone": "5746.74",
+      "Morphine": "1174.9",
+      "Pethidine": "29.1",
+      "Oxycodone": "2981.75",
+      "Fentanyl": "26559.69",
+      "Hydromorphone": "2679.08",
+      "Total": "39171.27"
+    },
+    {
+      "Year": 2015,
+      "Methadone": "7651.41",
+      "Morphine": "1537.64",
+      "Pethidine": "23.32",
+      "Oxycodone": "4248.47",
+      "Fentanyl": "33186.37",
+      "Hydromorphone": "2781.87",
+      "Total": "49429.06"
+    }
+  ],
+  "Canada": [
+    {
+      "Year": 1980,
+      "Methadone": "49.24",
+      "Morphine": "119.79",
+      "Pethidine": "337.06",
+      "Oxycodone": "176.33",
+      "Fentanyl": "27.7",
+      "Hydromorphone": "18.91",
+      "Total": "729.03"
+    },
+    {
+      "Year": 1981,
+      "Methadone": "70.96",
+      "Morphine": "164.64",
+      "Pethidine": "279.58",
+      "Oxycodone": "105.2",
+      "Fentanyl": "34.46",
+      "Hydromorphone": "17.54",
+      "Total": "672.39"
+    },
+    {
+      "Year": 1982,
+      "Methadone": "72.71",
+      "Morphine": "129.59",
+      "Pethidine": "290.8",
+      "Oxycodone": "147.97",
+      "Fentanyl": "3.46",
+      "Hydromorphone": "20.12",
+      "Total": "664.65"
+    },
+    {
+      "Year": 1983,
+      "Methadone": "91.74",
+      "Morphine": "201.9",
+      "Pethidine": "341.61",
+      "Oxycodone": "128.1",
+      "Fentanyl": "62.84",
+      "Hydromorphone": "27.57",
+      "Total": "853.76"
+    },
+    {
+      "Year": 1984,
+      "Methadone": "141.94",
+      "Morphine": "229.99",
+      "Pethidine": "267.51",
+      "Oxycodone": "107.24",
+      "Fentanyl": "47.09",
+      "Hydromorphone": "33.5",
+      "Total": "827.27"
+    },
+    {
+      "Year": 1985,
+      "Methadone": "153.51",
+      "Morphine": "279.74",
+      "Pethidine": "307.19",
+      "Oxycodone": "172.42",
+      "Fentanyl": "39.98",
+      "Hydromorphone": "28.31",
+      "Total": "981.15"
+    },
+    {
+      "Year": 1986,
+      "Methadone": "138.57",
+      "Morphine": "430.96",
+      "Pethidine": "302.97",
+      "Oxycodone": "172.72",
+      "Fentanyl": "58.31",
+      "Hydromorphone": "129.78",
+      "Total": "1233.31"
+    },
+    {
+      "Year": 1987,
+      "Methadone": "123.23",
+      "Morphine": "550.83",
+      "Pethidine": "297.47",
+      "Oxycodone": "126.57",
+      "Fentanyl": "58.77",
+      "Hydromorphone": "131.86",
+      "Total": "1288.74"
+    },
+    {
+      "Year": 1988,
+      "Methadone": "166.71",
+      "Morphine": "589.4",
+      "Pethidine": "286.4",
+      "Oxycodone": "119.99",
+      "Fentanyl": "53.11",
+      "Hydromorphone": "165.08",
+      "Total": "1380.7"
+    },
+    {
+      "Year": 1989,
+      "Methadone": "198.12",
+      "Morphine": "756.85",
+      "Pethidine": "289.61",
+      "Oxycodone": "171.83",
+      "Fentanyl": "38.16",
+      "Hydromorphone": "219.07",
+      "Total": "1673.64"
+    },
+    {
+      "Year": 1990,
+      "Methadone": "209.78",
+      "Morphine": "763.36",
+      "Pethidine": "267.88",
+      "Oxycodone": "177.97",
+      "Fentanyl": "42.57",
+      "Hydromorphone": "227.35",
+      "Total": "1688.92"
+    },
+    {
+      "Year": 1991,
+      "Methadone": "208.52",
+      "Morphine": "818.77",
+      "Pethidine": "266.97",
+      "Oxycodone": "137.14",
+      "Fentanyl": "58.91",
+      "Hydromorphone": "279.08",
+      "Total": "1769.39"
+    },
+    {
+      "Year": 1992,
+      "Methadone": "234.88",
+      "Morphine": "805.87",
+      "Pethidine": "251.41",
+      "Oxycodone": "209.8",
+      "Fentanyl": "105.64",
+      "Hydromorphone": "361.91",
+      "Total": "1969.51"
+    },
+    {
+      "Year": 1993,
+      "Methadone": "253.67",
+      "Morphine": "967.8",
+      "Pethidine": "252.01",
+      "Oxycodone": "168.66",
+      "Fentanyl": "54.37",
+      "Hydromorphone": "415.69",
+      "Total": "2112.19"
+    },
+    {
+      "Year": 1994,
+      "Methadone": "317.67",
+      "Morphine": "1061.51",
+      "Pethidine": "252.37",
+      "Oxycodone": "284.76",
+      "Fentanyl": "134.46",
+      "Hydromorphone": "404.67",
+      "Total": "2455.44"
+    },
+    {
+      "Year": 1995,
+      "Methadone": "350.44",
+      "Morphine": "1229.06",
+      "Pethidine": "258.78",
+      "Oxycodone": "201.75",
+      "Fentanyl": "290.78",
+      "Hydromorphone": "510.08",
+      "Total": "2840.9"
+    },
+    {
+      "Year": 1996,
+      "Methadone": "493.72",
+      "Morphine": "1201.18",
+      "Pethidine": "285.1",
+      "Oxycodone": "298.33",
+      "Fentanyl": "208.09",
+      "Hydromorphone": "564.59",
+      "Total": "3051"
+    },
+    {
+      "Year": 1997,
+      "Methadone": "922.63",
+      "Morphine": "1355",
+      "Pethidine": "271.78",
+      "Oxycodone": "309.36",
+      "Fentanyl": "361.33",
+      "Hydromorphone": "792.93",
+      "Total": "4013.04"
+    },
+    {
+      "Year": 1998,
+      "Methadone": "1078.18",
+      "Morphine": "1625.13",
+      "Pethidine": "289.71",
+      "Oxycodone": "454.94",
+      "Fentanyl": "607.92",
+      "Hydromorphone": "845.44",
+      "Total": "4901.31"
+    },
+    {
+      "Year": 1999,
+      "Methadone": "1452.49",
+      "Morphine": "1831.95",
+      "Pethidine": "276.65",
+      "Oxycodone": "743.75",
+      "Fentanyl": "832.74",
+      "Hydromorphone": "991.38",
+      "Total": "6128.97"
+    },
+    {
+      "Year": 2000,
+      "Methadone": "2163.98",
+      "Morphine": "1798.16",
+      "Pethidine": "287.85",
+      "Oxycodone": "896.04",
+      "Fentanyl": "966.48",
+      "Hydromorphone": "1285.14",
+      "Total": "7397.64"
+    },
+    {
+      "Year": 2001,
+      "Methadone": "1703.8",
+      "Morphine": "2012.61",
+      "Pethidine": "313.53",
+      "Oxycodone": "1380.55",
+      "Fentanyl": "1195.12",
+      "Hydromorphone": "1346.69",
+      "Total": "7952.3"
+    },
+    {
+      "Year": 2002,
+      "Methadone": "2616.42",
+      "Morphine": "2490.01",
+      "Pethidine": "271.47",
+      "Oxycodone": "2505.37",
+      "Fentanyl": "2065.86",
+      "Hydromorphone": "2126.44",
+      "Total": "12075.57"
+    },
+    {
+      "Year": 2003,
+      "Methadone": "2409.5",
+      "Morphine": "2277.12",
+      "Pethidine": "111.93",
+      "Oxycodone": "2611.27",
+      "Fentanyl": "2009.58",
+      "Hydromorphone": "1749.68",
+      "Total": "11169.07"
+    },
+    {
+      "Year": 2004,
+      "Methadone": "3544.78",
+      "Morphine": "2258.96",
+      "Pethidine": "325.23",
+      "Oxycodone": "3775.04",
+      "Fentanyl": "3335.54",
+      "Hydromorphone": "2419.17",
+      "Total": "15658.74"
+    },
+    {
+      "Year": 2005,
+      "Methadone": "3264.79",
+      "Morphine": "2616.17",
+      "Pethidine": "211.54",
+      "Oxycodone": "4805.02",
+      "Fentanyl": "3004.36",
+      "Hydromorphone": "2857.09",
+      "Total": "16758.97"
+    },
+    {
+      "Year": 2006,
+      "Methadone": "3718.29",
+      "Morphine": "2182.76",
+      "Pethidine": "186.66",
+      "Oxycodone": "5053.63",
+      "Fentanyl": "3882.32",
+      "Hydromorphone": "3013.46",
+      "Total": "18037.13"
+    },
+    {
+      "Year": 2007,
+      "Methadone": "4564.33",
+      "Morphine": "2505.9",
+      "Pethidine": "216.99",
+      "Oxycodone": "5347.53",
+      "Fentanyl": "5970.99",
+      "Hydromorphone": "3270.97",
+      "Total": "21876.72"
+    },
+    {
+      "Year": 2008,
+      "Methadone": "5663.89",
+      "Morphine": "2604.34",
+      "Pethidine": "180.45",
+      "Oxycodone": "6421.86",
+      "Fentanyl": "4302.49",
+      "Hydromorphone": "3462.6",
+      "Total": "22635.63"
+    },
+    {
+      "Year": 2009,
+      "Methadone": "4611.84",
+      "Morphine": "2701.69",
+      "Pethidine": "169.92",
+      "Oxycodone": "6691.65",
+      "Fentanyl": "7418.42",
+      "Hydromorphone": "4179.69",
+      "Total": "25773.21"
+    },
+    {
+      "Year": 2010,
+      "Methadone": "6112.74",
+      "Morphine": "1814.21",
+      "Pethidine": "260.99",
+      "Oxycodone": "7719.07",
+      "Fentanyl": "6244.53",
+      "Hydromorphone": "4368.2",
+      "Total": "26519.74"
+    },
+    {
+      "Year": 2011,
+      "Methadone": "7053.31",
+      "Morphine": "3079.45",
+      "Pethidine": "62.73",
+      "Oxycodone": "6830.3",
+      "Fentanyl": "7146.99",
+      "Hydromorphone": "4416.51",
+      "Total": "28589.29"
+    },
+    {
+      "Year": 2012,
+      "Methadone": "7525.31",
+      "Morphine": "1690.44",
+      "Pethidine": "115.41",
+      "Oxycodone": "6583.57",
+      "Fentanyl": "7685.88",
+      "Hydromorphone": "5196.41",
+      "Total": "28797.02"
+    },
+    {
+      "Year": 2013,
+      "Methadone": "5939.41",
+      "Morphine": "3434.81",
+      "Pethidine": "82.66",
+      "Oxycodone": "5377.06",
+      "Fentanyl": "5737.74",
+      "Hydromorphone": "4869.53",
+      "Total": "25441.2"
+    },
+    {
+      "Year": 2014,
+      "Methadone": "8262.29",
+      "Morphine": "4728.75",
+      "Pethidine": "116.83",
+      "Oxycodone": "3978.53",
+      "Fentanyl": "8194.36",
+      "Hydromorphone": "8766.76",
+      "Total": "34047.51"
+    },
+    {
+      "Year": 2015,
+      "Methadone": "6736.07",
+      "Morphine": "4144.55",
+      "Pethidine": "53.37",
+      "Oxycodone": "4559.15",
+      "Fentanyl": "5348.46",
+      "Hydromorphone": "9190.61",
+      "Total": "30032.21"
+    }
+  ],
+  "United Kingdom": [
+    {
+      "Year": 1980,
+      "Methadone": "219.39",
+      "Morphine": "224.77",
+      "Pethidine": "130.87",
+      "Oxycodone": "8.01",
+      "Fentanyl": "14.13",
+      "Hydromorphone": "N/A",
+      "Total": "597.17"
+    },
+    {
+      "Year": 1981,
+      "Methadone": "234.33",
+      "Morphine": "276.76",
+      "Pethidine": "130.64",
+      "Oxycodone": "11.57",
+      "Fentanyl": "18.95",
+      "Hydromorphone": "N/A",
+      "Total": "672.24"
+    },
+    {
+      "Year": 1982,
+      "Methadone": "274.76",
+      "Morphine": "243.82",
+      "Pethidine": "73.77",
+      "Oxycodone": "13.28",
+      "Fentanyl": "3.6",
+      "Hydromorphone": "N/A",
+      "Total": "609.24"
+    },
+    {
+      "Year": 1983,
+      "Methadone": "286.79",
+      "Morphine": "179.47",
+      "Pethidine": "110.18",
+      "Oxycodone": "23.88",
+      "Fentanyl": "25.02",
+      "Hydromorphone": "N/A",
+      "Total": "625.34"
+    },
+    {
+      "Year": 1984,
+      "Methadone": "286.33",
+      "Morphine": "522.33",
+      "Pethidine": "106.64",
+      "Oxycodone": "17.97",
+      "Fentanyl": "19.66",
+      "Hydromorphone": "0.03",
+      "Total": "952.96"
+    },
+    {
+      "Year": 1985,
+      "Methadone": "296.49",
+      "Morphine": "482.99",
+      "Pethidine": "110.64",
+      "Oxycodone": "25.26",
+      "Fentanyl": "39.29",
+      "Hydromorphone": "0.17",
+      "Total": "954.83"
+    },
+    {
+      "Year": 1986,
+      "Methadone": "297.48",
+      "Morphine": "664.08",
+      "Pethidine": "102.71",
+      "Oxycodone": "12.98",
+      "Fentanyl": "24.9",
+      "Hydromorphone": "0.79",
+      "Total": "1102.94"
+    },
+    {
+      "Year": 1987,
+      "Methadone": "318.86",
+      "Morphine": "829.24",
+      "Pethidine": "103.3",
+      "Oxycodone": "6.1",
+      "Fentanyl": "51.91",
+      "Hydromorphone": "7.06",
+      "Total": "1316.46"
+    },
+    {
+      "Year": 1988,
+      "Methadone": "417.93",
+      "Morphine": "923.62",
+      "Pethidine": "100.95",
+      "Oxycodone": "5.2",
+      "Fentanyl": "35.61",
+      "Hydromorphone": "12.46",
+      "Total": "1495.75"
+    },
+    {
+      "Year": 1989,
+      "Methadone": "551.12",
+      "Morphine": "946.66",
+      "Pethidine": "113.51",
+      "Oxycodone": "11.28",
+      "Fentanyl": "8.47",
+      "Hydromorphone": "17.02",
+      "Total": "1648.06"
+    },
+    {
+      "Year": 1990,
+      "Methadone": "832.49",
+      "Morphine": "1044.91",
+      "Pethidine": "142.21",
+      "Oxycodone": "4.79",
+      "Fentanyl": "26.26",
+      "Hydromorphone": "50.72",
+      "Total": "2101.37"
+    },
+    {
+      "Year": 1991,
+      "Methadone": "928.39",
+      "Morphine": "1287.26",
+      "Pethidine": "115.6",
+      "Oxycodone": "2.08",
+      "Fentanyl": "31.51",
+      "Hydromorphone": "0.13",
+      "Total": "2364.96"
+    },
+    {
+      "Year": 1992,
+      "Methadone": "1496.06",
+      "Morphine": "950.31",
+      "Pethidine": "426.78",
+      "Oxycodone": "1.62",
+      "Fentanyl": "37.67",
+      "Hydromorphone": "28.02",
+      "Total": "2940.46"
+    },
+    {
+      "Year": 1993,
+      "Methadone": "1827.5",
+      "Morphine": "2418.8",
+      "Pethidine": "99.21",
+      "Oxycodone": "12.12",
+      "Fentanyl": "37.08",
+      "Hydromorphone": "13.95",
+      "Total": "4408.67"
+    },
+    {
+      "Year": 1994,
+      "Methadone": "2278.15",
+      "Morphine": "2327.11",
+      "Pethidine": "200.33",
+      "Oxycodone": "2.5",
+      "Fentanyl": "61.84",
+      "Hydromorphone": "44.41",
+      "Total": "4914.32"
+    },
+    {
+      "Year": 1995,
+      "Methadone": "904.87",
+      "Morphine": "1642.35",
+      "Pethidine": "204.31",
+      "Oxycodone": "25",
+      "Fentanyl": "141.27",
+      "Hydromorphone": "26.38",
+      "Total": "2944.2"
+    },
+    {
+      "Year": 1996,
+      "Methadone": "2357.34",
+      "Morphine": "1206.76",
+      "Pethidine": "134.63",
+      "Oxycodone": "1.53",
+      "Fentanyl": "261.8",
+      "Hydromorphone": "2.83",
+      "Total": "3964.89"
+    },
+    {
+      "Year": 1997,
+      "Methadone": "2501.72",
+      "Morphine": "1408.93",
+      "Pethidine": "140.44",
+      "Oxycodone": "2.44",
+      "Fentanyl": "983.31",
+      "Hydromorphone": "7.07",
+      "Total": "5043.91"
+    },
+    {
+      "Year": 1998,
+      "Methadone": "3284.75",
+      "Morphine": "1311.78",
+      "Pethidine": "125.55",
+      "Oxycodone": "2.44",
+      "Fentanyl": "1166.36",
+      "Hydromorphone": "25.88",
+      "Total": "5916.75"
+    },
+    {
+      "Year": 1999,
+      "Methadone": "2817.32",
+      "Morphine": "1264.85",
+      "Pethidine": "105.03",
+      "Oxycodone": "8.81",
+      "Fentanyl": "1570.64",
+      "Hydromorphone": "40.4",
+      "Total": "5807.06"
+    },
+    {
+      "Year": 2000,
+      "Methadone": "2175.77",
+      "Morphine": "1228.26",
+      "Pethidine": "108.31",
+      "Oxycodone": "80.85",
+      "Fentanyl": "1393.7",
+      "Hydromorphone": "24.02",
+      "Total": "5010.91"
+    },
+    {
+      "Year": 2001,
+      "Methadone": "2471.59",
+      "Morphine": "1202.12",
+      "Pethidine": "77.61",
+      "Oxycodone": "115.22",
+      "Fentanyl": "754.66",
+      "Hydromorphone": "40.15",
+      "Total": "4661.35"
+    },
+    {
+      "Year": 2002,
+      "Methadone": "3460.77",
+      "Morphine": "1198.9",
+      "Pethidine": "81.18",
+      "Oxycodone": "205.31",
+      "Fentanyl": "1204.7",
+      "Hydromorphone": "33.68",
+      "Total": "6184.55"
+    },
+    {
+      "Year": 2003,
+      "Methadone": "3573.31",
+      "Morphine": "1242.53",
+      "Pethidine": "75.99",
+      "Oxycodone": "359.08",
+      "Fentanyl": "1247.09",
+      "Hydromorphone": "28.25",
+      "Total": "6526.25"
+    },
+    {
+      "Year": 2004,
+      "Methadone": "3976.49",
+      "Morphine": "1227.82",
+      "Pethidine": "29.22",
+      "Oxycodone": "519.86",
+      "Fentanyl": "1737.33",
+      "Hydromorphone": "24.37",
+      "Total": "7515.1"
+    },
+    {
+      "Year": 2005,
+      "Methadone": "5132.38",
+      "Morphine": "1830.52",
+      "Pethidine": "85.06",
+      "Oxycodone": "718.29",
+      "Fentanyl": "2986.37",
+      "Hydromorphone": "37.08",
+      "Total": "10789.7"
+    },
+    {
+      "Year": 2006,
+      "Methadone": "4563.55",
+      "Morphine": "1810.13",
+      "Pethidine": "52.99",
+      "Oxycodone": "588.63",
+      "Fentanyl": "2326.37",
+      "Hydromorphone": "41.79",
+      "Total": "9383.46"
+    },
+    {
+      "Year": 2007,
+      "Methadone": "3152.5",
+      "Morphine": "1353.43",
+      "Pethidine": "45.34",
+      "Oxycodone": "307.17",
+      "Fentanyl": "854.31",
+      "Hydromorphone": "30.46",
+      "Total": "5743.21"
+    },
+    {
+      "Year": 2008,
+      "Methadone": "10198.03",
+      "Morphine": "2642.5",
+      "Pethidine": "77.04",
+      "Oxycodone": "2551.57",
+      "Fentanyl": "3563.95",
+      "Hydromorphone": "28.21",
+      "Total": "19061.29"
+    },
+    {
+      "Year": 2009,
+      "Methadone": "12674.32",
+      "Morphine": "3645.89",
+      "Pethidine": "104.77",
+      "Oxycodone": "3381.73",
+      "Fentanyl": "N/A",
+      "Hydromorphone": "189.81",
+      "Total": "19996.51"
+    },
+    {
+      "Year": 2010,
+      "Methadone": "12399.25",
+      "Morphine": "3616.45",
+      "Pethidine": "54.97",
+      "Oxycodone": "1364.66",
+      "Fentanyl": "35351.72",
+      "Hydromorphone": "50.4",
+      "Total": "52837.46"
+    },
+    {
+      "Year": 2011,
+      "Methadone": "10072.46",
+      "Morphine": "3080.89",
+      "Pethidine": "104.24",
+      "Oxycodone": "1133.67",
+      "Fentanyl": "1797.11",
+      "Hydromorphone": "25.67",
+      "Total": "16214.04"
+    },
+    {
+      "Year": 2012,
+      "Methadone": "5813.5",
+      "Morphine": "2513.14",
+      "Pethidine": "36.29",
+      "Oxycodone": "1988.2",
+      "Fentanyl": "5336.91",
+      "Hydromorphone": "43.4",
+      "Total": "15731.45"
+    },
+    {
+      "Year": 2013,
+      "Methadone": "8241.13",
+      "Morphine": "2141.38",
+      "Pethidine": "29.36",
+      "Oxycodone": "1177.47",
+      "Fentanyl": "3704.49",
+      "Hydromorphone": "184.38",
+      "Total": "15478.19"
+    },
+    {
+      "Year": 2014,
+      "Methadone": "10323.78",
+      "Morphine": "3124.71",
+      "Pethidine": "27.86",
+      "Oxycodone": "7803.12",
+      "Fentanyl": "5885.21",
+      "Hydromorphone": "40.01",
+      "Total": "27204.71"
+    },
+    {
+      "Year": 2015,
+      "Methadone": "7965.16",
+      "Morphine": "1465.14",
+      "Pethidine": "39.79",
+      "Oxycodone": "1698.89",
+      "Fentanyl": "6804.75",
+      "Hydromorphone": "47.01",
+      "Total": "18020.74"
+    }
+  ],
+  "Spain": [
+    {
+      "Year": 1980,
+      "Methadone": "38.75",
+      "Morphine": "5.02",
+      "Pethidine": "19.65",
+      "Oxycodone": "17.63",
+      "Fentanyl": "43.49",
+      "Hydromorphone": "N/A",
+      "Total": "124.54"
+    },
+    {
+      "Year": 1981,
+      "Methadone": "39.89",
+      "Morphine": "4.58",
+      "Pethidine": "20.63",
+      "Oxycodone": "14.21",
+      "Fentanyl": "36.6",
+      "Hydromorphone": "N/A",
+      "Total": "115.91"
+    },
+    {
+      "Year": 1982,
+      "Methadone": "61.09",
+      "Morphine": "11.29",
+      "Pethidine": "18.89",
+      "Oxycodone": "13.68",
+      "Fentanyl": "46.31",
+      "Hydromorphone": "N/A",
+      "Total": "151.25"
+    },
+    {
+      "Year": 1983,
+      "Methadone": "126.66",
+      "Morphine": "9.57",
+      "Pethidine": "20.14",
+      "Oxycodone": "22.18",
+      "Fentanyl": "20.78",
+      "Hydromorphone": "N/A",
+      "Total": "199.31"
+    },
+    {
+      "Year": 1984,
+      "Methadone": "126.92",
+      "Morphine": "20.27",
+      "Pethidine": "13.63",
+      "Oxycodone": "13.39",
+      "Fentanyl": "48.13",
+      "Hydromorphone": "N/A",
+      "Total": "222.34"
+    },
+    {
+      "Year": 1985,
+      "Methadone": "202.51",
+      "Morphine": "27.2",
+      "Pethidine": "22.76",
+      "Oxycodone": "N/A",
+      "Fentanyl": "55.39",
+      "Hydromorphone": "N/A",
+      "Total": "307.86"
+    },
+    {
+      "Year": 1986,
+      "Methadone": "85.13",
+      "Morphine": "48.05",
+      "Pethidine": "14.6",
+      "Oxycodone": "N/A",
+      "Fentanyl": "51.65",
+      "Hydromorphone": "N/A",
+      "Total": "199.42"
+    },
+    {
+      "Year": 1987,
+      "Methadone": "74.98",
+      "Morphine": "51.25",
+      "Pethidine": "18.66",
+      "Oxycodone": "0.02",
+      "Fentanyl": "35.68",
+      "Hydromorphone": "N/A",
+      "Total": "180.59"
+    },
+    {
+      "Year": 1988,
+      "Methadone": "53.65",
+      "Morphine": "105.42",
+      "Pethidine": "14.65",
+      "Oxycodone": "N/A",
+      "Fentanyl": "70.89",
+      "Hydromorphone": "N/A",
+      "Total": "244.62"
+    },
+    {
+      "Year": 1989,
+      "Methadone": "69",
+      "Morphine": "111.9",
+      "Pethidine": "19.65",
+      "Oxycodone": "N/A",
+      "Fentanyl": "32.38",
+      "Hydromorphone": "0.28",
+      "Total": "233.21"
+    },
+    {
+      "Year": 1990,
+      "Methadone": "160.93",
+      "Morphine": "118.85",
+      "Pethidine": "23.74",
+      "Oxycodone": "N/A",
+      "Fentanyl": "59.7",
+      "Hydromorphone": "N/A",
+      "Total": "363.22"
+    },
+    {
+      "Year": 1991,
+      "Methadone": "232.65",
+      "Morphine": "207.91",
+      "Pethidine": "22.48",
+      "Oxycodone": "N/A",
+      "Fentanyl": "51.63",
+      "Hydromorphone": "N/A",
+      "Total": "514.66"
+    },
+    {
+      "Year": 1992,
+      "Methadone": "484.39",
+      "Morphine": "189",
+      "Pethidine": "21.15",
+      "Oxycodone": "N/A",
+      "Fentanyl": "61.78",
+      "Hydromorphone": "N/A",
+      "Total": "756.32"
+    },
+    {
+      "Year": 1993,
+      "Methadone": "787.34",
+      "Morphine": "203.51",
+      "Pethidine": "16.26",
+      "Oxycodone": "N/A",
+      "Fentanyl": "65.87",
+      "Hydromorphone": "N/A",
+      "Total": "1072.99"
+    },
+    {
+      "Year": 1994,
+      "Methadone": "1177.88",
+      "Morphine": "281.29",
+      "Pethidine": "25.14",
+      "Oxycodone": "N/A",
+      "Fentanyl": "64.97",
+      "Hydromorphone": "N/A",
+      "Total": "1549.27"
+    },
+    {
+      "Year": 1995,
+      "Methadone": "2267.3",
+      "Morphine": "421.46",
+      "Pethidine": "28.42",
+      "Oxycodone": "N/A",
+      "Fentanyl": "58.06",
+      "Hydromorphone": "N/A",
+      "Total": "2775.24"
+    },
+    {
+      "Year": 1996,
+      "Methadone": "3225.52",
+      "Morphine": "272.73",
+      "Pethidine": "32.02",
+      "Oxycodone": "N/A",
+      "Fentanyl": "76.27",
+      "Hydromorphone": "N/A",
+      "Total": "3606.54"
+    },
+    {
+      "Year": 1997,
+      "Methadone": "4882.62",
+      "Morphine": "428.9",
+      "Pethidine": "30.54",
+      "Oxycodone": "N/A",
+      "Fentanyl": "67.27",
+      "Hydromorphone": "N/A",
+      "Total": "5409.33"
+    },
+    {
+      "Year": 1998,
+      "Methadone": "5394.19",
+      "Morphine": "404.74",
+      "Pethidine": "33.91",
+      "Oxycodone": "0.03",
+      "Fentanyl": "386.79",
+      "Hydromorphone": "0.3",
+      "Total": "6219.96"
+    },
+    {
+      "Year": 1999,
+      "Methadone": "6826.36",
+      "Morphine": "341.04",
+      "Pethidine": "25.99",
+      "Oxycodone": "0",
+      "Fentanyl": "344.61",
+      "Hydromorphone": "0.67",
+      "Total": "7538.68"
+    },
+    {
+      "Year": 2000,
+      "Methadone": "7427.82",
+      "Morphine": "415.3",
+      "Pethidine": "25.96",
+      "Oxycodone": "N/A",
+      "Fentanyl": "807.43",
+      "Hydromorphone": "2.9",
+      "Total": "8679.41"
+    },
+    {
+      "Year": 2001,
+      "Methadone": "7565.78",
+      "Morphine": "407.75",
+      "Pethidine": "31.13",
+      "Oxycodone": "N/A",
+      "Fentanyl": "1194.21",
+      "Hydromorphone": "N/A",
+      "Total": "9198.87"
+    },
+    {
+      "Year": 2002,
+      "Methadone": "8229.63",
+      "Morphine": "337.59",
+      "Pethidine": "31.35",
+      "Oxycodone": "N/A",
+      "Fentanyl": "1680.37",
+      "Hydromorphone": "N/A",
+      "Total": "10278.94"
+    },
+    {
+      "Year": 2003,
+      "Methadone": "7622.41",
+      "Morphine": "366.71",
+      "Pethidine": "25.19",
+      "Oxycodone": "3.85",
+      "Fentanyl": "2175.45",
+      "Hydromorphone": "N/A",
+      "Total": "10193.63"
+    },
+    {
+      "Year": 2004,
+      "Methadone": "7128.09",
+      "Morphine": "556.32",
+      "Pethidine": "36.7",
+      "Oxycodone": "29.44",
+      "Fentanyl": "2490.31",
+      "Hydromorphone": "N/A",
+      "Total": "10240.86"
+    },
+    {
+      "Year": 2005,
+      "Methadone": "6215.36",
+      "Morphine": "428.79",
+      "Pethidine": "24.05",
+      "Oxycodone": "59.74",
+      "Fentanyl": "4422.36",
+      "Hydromorphone": "N/A",
+      "Total": "11150.29"
+    },
+    {
+      "Year": 2006,
+      "Methadone": "5496.44",
+      "Morphine": "196.52",
+      "Pethidine": "41.31",
+      "Oxycodone": "64.17",
+      "Fentanyl": "4878.74",
+      "Hydromorphone": "N/A",
+      "Total": "10677.17"
+    },
+    {
+      "Year": 2007,
+      "Methadone": "5858.55",
+      "Morphine": "132.55",
+      "Pethidine": "53.11",
+      "Oxycodone": "143.18",
+      "Fentanyl": "5787.15",
+      "Hydromorphone": "N/A",
+      "Total": "11974.54"
+    },
+    {
+      "Year": 2008,
+      "Methadone": "5922.37",
+      "Morphine": "349.18",
+      "Pethidine": "34.84",
+      "Oxycodone": "196.15",
+      "Fentanyl": "7224.02",
+      "Hydromorphone": "N/A",
+      "Total": "13726.57"
+    },
+    {
+      "Year": 2009,
+      "Methadone": "5061.63",
+      "Morphine": "417.37",
+      "Pethidine": "22.82",
+      "Oxycodone": "194.84",
+      "Fentanyl": "6272.02",
+      "Hydromorphone": "258.7",
+      "Total": "12227.38"
+    },
+    {
+      "Year": 2010,
+      "Methadone": "5324.01",
+      "Morphine": "419.84",
+      "Pethidine": "33.35",
+      "Oxycodone": "287.8",
+      "Fentanyl": "7848.83",
+      "Hydromorphone": "125.37",
+      "Total": "14039.22"
+    },
+    {
+      "Year": 2011,
+      "Methadone": "4708.48",
+      "Morphine": "315.03",
+      "Pethidine": "27.12",
+      "Oxycodone": "424.19",
+      "Fentanyl": "7192.21",
+      "Hydromorphone": "255.06",
+      "Total": "12922.09"
+    },
+    {
+      "Year": 2012,
+      "Methadone": "3842.79",
+      "Morphine": "354.71",
+      "Pethidine": "38",
+      "Oxycodone": "518.31",
+      "Fentanyl": "6010.54",
+      "Hydromorphone": "180.14",
+      "Total": "10944.49"
+    },
+    {
+      "Year": 2013,
+      "Methadone": "4470.32",
+      "Morphine": "451.66",
+      "Pethidine": "140.77",
+      "Oxycodone": "723.52",
+      "Fentanyl": "7735.19",
+      "Hydromorphone": "139.54",
+      "Total": "13660.99"
+    },
+    {
+      "Year": 2014,
+      "Methadone": "3585.09",
+      "Morphine": "444.28",
+      "Pethidine": "51.28",
+      "Oxycodone": "820.49",
+      "Fentanyl": "8660.55",
+      "Hydromorphone": "188.66",
+      "Total": "13750.36"
+    },
+    {
+      "Year": 2015,
+      "Methadone": "3288.77",
+      "Morphine": "480.14",
+      "Pethidine": "63.26",
+      "Oxycodone": "1066.77",
+      "Fentanyl": "9281.7",
+      "Hydromorphone": "109.56",
+      "Total": "14290.2"
+    }
+  ],
+  "France": [
+    {
+      "Year": 1980,
+      "Methadone": "2.16",
+      "Morphine": "30.62",
+      "Pethidine": "55.57",
+      "Oxycodone": "7.23",
+      "Fentanyl": "54.4",
+      "Hydromorphone": "N/A",
+      "Total": "150"
+    },
+    {
+      "Year": 1981,
+      "Methadone": "4.31",
+      "Morphine": "28.02",
+      "Pethidine": "63.14",
+      "Oxycodone": "6.37",
+      "Fentanyl": "50.34",
+      "Hydromorphone": "N/A",
+      "Total": "152.19"
+    },
+    {
+      "Year": 1982,
+      "Methadone": "2.15",
+      "Morphine": "32.35",
+      "Pethidine": "53.82",
+      "Oxycodone": "6.06",
+      "Fentanyl": "62.19",
+      "Hydromorphone": "N/A",
+      "Total": "156.57"
+    },
+    {
+      "Year": 1983,
+      "Methadone": "2.61",
+      "Morphine": "27.5",
+      "Pethidine": "55.18",
+      "Oxycodone": "5.72",
+      "Fentanyl": "76.68",
+      "Hydromorphone": "N/A",
+      "Total": "167.68"
+    },
+    {
+      "Year": 1984,
+      "Methadone": "2.53",
+      "Morphine": "32.43",
+      "Pethidine": "50.49",
+      "Oxycodone": "5.1",
+      "Fentanyl": "52.35",
+      "Hydromorphone": "N/A",
+      "Total": "142.9"
+    },
+    {
+      "Year": 1985,
+      "Methadone": "2.67",
+      "Morphine": "32.23",
+      "Pethidine": "54.6",
+      "Oxycodone": "4.26",
+      "Fentanyl": "105.05",
+      "Hydromorphone": "0.03",
+      "Total": "198.84"
+    },
+    {
+      "Year": 1986,
+      "Methadone": "2.26",
+      "Morphine": "36.09",
+      "Pethidine": "60.63",
+      "Oxycodone": "4.02",
+      "Fentanyl": "85.05",
+      "Hydromorphone": "N/A",
+      "Total": "188.05"
+    },
+    {
+      "Year": 1987,
+      "Methadone": "2.27",
+      "Morphine": "49.66",
+      "Pethidine": "60.35",
+      "Oxycodone": "4.2",
+      "Fentanyl": "46.89",
+      "Hydromorphone": "N/A",
+      "Total": "163.38"
+    },
+    {
+      "Year": 1988,
+      "Methadone": "1.96",
+      "Morphine": "151.71",
+      "Pethidine": "16.54",
+      "Oxycodone": "2.96",
+      "Fentanyl": "140.93",
+      "Hydromorphone": "N/A",
+      "Total": "314.1"
+    },
+    {
+      "Year": 1989,
+      "Methadone": "2.17",
+      "Morphine": "222.25",
+      "Pethidine": "41.24",
+      "Oxycodone": "2.55",
+      "Fentanyl": "121.84",
+      "Hydromorphone": "N/A",
+      "Total": "390.06"
+    },
+    {
+      "Year": 1990,
+      "Methadone": "1.97",
+      "Morphine": "261.74",
+      "Pethidine": "24.8",
+      "Oxycodone": "2.01",
+      "Fentanyl": "123.79",
+      "Hydromorphone": "N/A",
+      "Total": "414.33"
+    },
+    {
+      "Year": 1991,
+      "Methadone": "1.93",
+      "Morphine": "283.41",
+      "Pethidine": "43.67",
+      "Oxycodone": "0.5",
+      "Fentanyl": "117.02",
+      "Hydromorphone": "N/A",
+      "Total": "446.52"
+    },
+    {
+      "Year": 1992,
+      "Methadone": "4.61",
+      "Morphine": "447.38",
+      "Pethidine": "29.75",
+      "Oxycodone": "1.99",
+      "Fentanyl": "146.67",
+      "Hydromorphone": "N/A",
+      "Total": "630.39"
+    },
+    {
+      "Year": 1993,
+      "Methadone": "5.78",
+      "Morphine": "455.97",
+      "Pethidine": "28.7",
+      "Oxycodone": "2.25",
+      "Fentanyl": "118.95",
+      "Hydromorphone": "N/A",
+      "Total": "611.66"
+    },
+    {
+      "Year": 1994,
+      "Methadone": "103.13",
+      "Morphine": "935.93",
+      "Pethidine": "26.18",
+      "Oxycodone": "1.04",
+      "Fentanyl": "145.9",
+      "Hydromorphone": "N/A",
+      "Total": "1212.19"
+    },
+    {
+      "Year": 1995,
+      "Methadone": "142.48",
+      "Morphine": "1813.29",
+      "Pethidine": "29.94",
+      "Oxycodone": "0.89",
+      "Fentanyl": "148.9",
+      "Hydromorphone": "12.71",
+      "Total": "2148.22"
+    },
+    {
+      "Year": 1996,
+      "Methadone": "472.25",
+      "Morphine": "1644.72",
+      "Pethidine": "21.41",
+      "Oxycodone": "0.93",
+      "Fentanyl": "153.85",
+      "Hydromorphone": "N/A",
+      "Total": "2293.16"
+    },
+    {
+      "Year": 1997,
+      "Methadone": "691.16",
+      "Morphine": "1701.81",
+      "Pethidine": "16.9",
+      "Oxycodone": "0.58",
+      "Fentanyl": "207.76",
+      "Hydromorphone": "N/A",
+      "Total": "2618.21"
+    },
+    {
+      "Year": 1998,
+      "Methadone": "459.4",
+      "Morphine": "1855.77",
+      "Pethidine": "28.53",
+      "Oxycodone": "1.72",
+      "Fentanyl": "757.03",
+      "Hydromorphone": "4.78",
+      "Total": "3107.23"
+    },
+    {
+      "Year": 1999,
+      "Methadone": "720.63",
+      "Morphine": "2098.58",
+      "Pethidine": "20.74",
+      "Oxycodone": "4.75",
+      "Fentanyl": "1047.14",
+      "Hydromorphone": "3.95",
+      "Total": "3895.8"
+    },
+    {
+      "Year": 2000,
+      "Methadone": "1035.63",
+      "Morphine": "2333.5",
+      "Pethidine": "3.28",
+      "Oxycodone": "11.3",
+      "Fentanyl": "1638.77",
+      "Hydromorphone": "45.25",
+      "Total": "5067.74"
+    },
+    {
+      "Year": 2001,
+      "Methadone": "1133.52",
+      "Morphine": "2408.27",
+      "Pethidine": "6.91",
+      "Oxycodone": "135.31",
+      "Fentanyl": "2043.18",
+      "Hydromorphone": "78.15",
+      "Total": "5805.35"
+    },
+    {
+      "Year": 2002,
+      "Methadone": "1243",
+      "Morphine": "2775.93",
+      "Pethidine": "0.9",
+      "Oxycodone": "70.51",
+      "Fentanyl": "2296.55",
+      "Hydromorphone": "102.92",
+      "Total": "6489.82"
+    },
+    {
+      "Year": 2003,
+      "Methadone": "1584.77",
+      "Morphine": "2833.35",
+      "Pethidine": "2.39",
+      "Oxycodone": "100.06",
+      "Fentanyl": "2431.01",
+      "Hydromorphone": "125.45",
+      "Total": "7077.03"
+    },
+    {
+      "Year": 2004,
+      "Methadone": "1969.18",
+      "Morphine": "2761.14",
+      "Pethidine": "7.68",
+      "Oxycodone": "132.29",
+      "Fentanyl": "2749.38",
+      "Hydromorphone": "125.21",
+      "Total": "7744.88"
+    },
+    {
+      "Year": 2005,
+      "Methadone": "1779.47",
+      "Morphine": "2791.31",
+      "Pethidine": "1.69",
+      "Oxycodone": "138.38",
+      "Fentanyl": "4537.92",
+      "Hydromorphone": "123.93",
+      "Total": "9372.71"
+    },
+    {
+      "Year": 2006,
+      "Methadone": "2067.28",
+      "Morphine": "2868.13",
+      "Pethidine": "3.78",
+      "Oxycodone": "365.71",
+      "Fentanyl": "5173.03",
+      "Hydromorphone": "165.88",
+      "Total": "10643.8"
+    },
+    {
+      "Year": 2007,
+      "Methadone": "2712.72",
+      "Morphine": "2490.99",
+      "Pethidine": "3.35",
+      "Oxycodone": "679.03",
+      "Fentanyl": "5539.46",
+      "Hydromorphone": "127.74",
+      "Total": "11553.27"
+    },
+    {
+      "Year": 2008,
+      "Methadone": "2622.27",
+      "Morphine": "2518.28",
+      "Pethidine": "3.89",
+      "Oxycodone": "717.16",
+      "Fentanyl": "5912.86",
+      "Hydromorphone": "81.95",
+      "Total": "11856.4"
+    },
+    {
+      "Year": 2009,
+      "Methadone": "2894.58",
+      "Morphine": "2257.38",
+      "Pethidine": "2.95",
+      "Oxycodone": "924.86",
+      "Fentanyl": "6462.9",
+      "Hydromorphone": "92.39",
+      "Total": "12635.07"
+    },
+    {
+      "Year": 2010,
+      "Methadone": "4007.91",
+      "Morphine": "2261.44",
+      "Pethidine": "2.69",
+      "Oxycodone": "1140.06",
+      "Fentanyl": "6927.41",
+      "Hydromorphone": "212.25",
+      "Total": "14551.77"
+    },
+    {
+      "Year": 2011,
+      "Methadone": "3960.77",
+      "Morphine": "2131.98",
+      "Pethidine": "4.46",
+      "Oxycodone": "1114.46",
+      "Fentanyl": "6437.94",
+      "Hydromorphone": "261.02",
+      "Total": "13910.63"
+    },
+    {
+      "Year": 2012,
+      "Methadone": "3826.45",
+      "Morphine": "2102.38",
+      "Pethidine": "3.6",
+      "Oxycodone": "1331",
+      "Fentanyl": "6679.42",
+      "Hydromorphone": "105.05",
+      "Total": "14047.9"
+    },
+    {
+      "Year": 2013,
+      "Methadone": "3824.96",
+      "Morphine": "2134.76",
+      "Pethidine": "0.75",
+      "Oxycodone": "1803.04",
+      "Fentanyl": "6251.76",
+      "Hydromorphone": "68.32",
+      "Total": "14083.58"
+    },
+    {
+      "Year": 2014,
+      "Methadone": "3948.02",
+      "Morphine": "1930.1",
+      "Pethidine": "0.66",
+      "Oxycodone": "1769.83",
+      "Fentanyl": "6386.69",
+      "Hydromorphone": "60.54",
+      "Total": "14095.84"
+    },
+    {
+      "Year": 2015,
+      "Methadone": "3420.56",
+      "Morphine": "1824.79",
+      "Pethidine": "0.57",
+      "Oxycodone": "1962.19",
+      "Fentanyl": "6184.99",
+      "Hydromorphone": "56.38",
+      "Total": "13449.48"
+    }
+  ],
+  "Australia": [
+    {
+      "Year": 1980,
+      "Methadone": "261.16",
+      "Morphine": "157.21",
+      "Pethidine": "134.02",
+      "Oxycodone": "43.42",
+      "Fentanyl": "1.44",
+      "Hydromorphone": "1.71",
+      "Total": "598.97"
+    },
+    {
+      "Year": 1981,
+      "Methadone": "156.11",
+      "Morphine": "253.51",
+      "Pethidine": "124.96",
+      "Oxycodone": "54.41",
+      "Fentanyl": "6.85",
+      "Hydromorphone": "1.72",
+      "Total": "597.56"
+    },
+    {
+      "Year": 1982,
+      "Methadone": "244.58",
+      "Morphine": "138.55",
+      "Pethidine": "138.72",
+      "Oxycodone": "37.3",
+      "Fentanyl": "15.17",
+      "Hydromorphone": "1.96",
+      "Total": "576.28"
+    },
+    {
+      "Year": 1983,
+      "Methadone": "287.76",
+      "Morphine": "164.99",
+      "Pethidine": "143.37",
+      "Oxycodone": "55.77",
+      "Fentanyl": "13.7",
+      "Hydromorphone": "1.03",
+      "Total": "666.63"
+    },
+    {
+      "Year": 1984,
+      "Methadone": "302.82",
+      "Morphine": "250.79",
+      "Pethidine": "144.92",
+      "Oxycodone": "62.16",
+      "Fentanyl": "4.83",
+      "Hydromorphone": "0.73",
+      "Total": "766.25"
+    },
+    {
+      "Year": 1985,
+      "Methadone": "381.7",
+      "Morphine": "167.94",
+      "Pethidine": "154.73",
+      "Oxycodone": "75.17",
+      "Fentanyl": "16.94",
+      "Hydromorphone": "0.52",
+      "Total": "796.99"
+    },
+    {
+      "Year": 1986,
+      "Methadone": "659.32",
+      "Morphine": "216.87",
+      "Pethidine": "169.51",
+      "Oxycodone": "79.42",
+      "Fentanyl": "14.51",
+      "Hydromorphone": "0.76",
+      "Total": "1140.4"
+    },
+    {
+      "Year": 1987,
+      "Methadone": "560.19",
+      "Morphine": "240.46",
+      "Pethidine": "179.26",
+      "Oxycodone": "82.24",
+      "Fentanyl": "16.75",
+      "Hydromorphone": "0.15",
+      "Total": "1079.06"
+    },
+    {
+      "Year": 1988,
+      "Methadone": "694.8",
+      "Morphine": "264.86",
+      "Pethidine": "167.17",
+      "Oxycodone": "103.14",
+      "Fentanyl": "16.36",
+      "Hydromorphone": "0.01",
+      "Total": "1246.35"
+    },
+    {
+      "Year": 1989,
+      "Methadone": "637.22",
+      "Morphine": "109.27",
+      "Pethidine": "192.37",
+      "Oxycodone": "101.28",
+      "Fentanyl": "25.47",
+      "Hydromorphone": "N/A",
+      "Total": "1065.61"
+    },
+    {
+      "Year": 1990,
+      "Methadone": "983.94",
+      "Morphine": "454.49",
+      "Pethidine": "206.4",
+      "Oxycodone": "115.32",
+      "Fentanyl": "37.83",
+      "Hydromorphone": "N/A",
+      "Total": "1797.97"
+    },
+    {
+      "Year": 1991,
+      "Methadone": "955.8",
+      "Morphine": "376.37",
+      "Pethidine": "166.14",
+      "Oxycodone": "106.31",
+      "Fentanyl": "23",
+      "Hydromorphone": "N/A",
+      "Total": "1627.63"
+    },
+    {
+      "Year": 1992,
+      "Methadone": "1152.17",
+      "Morphine": "765.51",
+      "Pethidine": "202.92",
+      "Oxycodone": "131.53",
+      "Fentanyl": "37.67",
+      "Hydromorphone": "0.04",
+      "Total": "2289.83"
+    },
+    {
+      "Year": 1993,
+      "Methadone": "1478.37",
+      "Morphine": "745.51",
+      "Pethidine": "204.31",
+      "Oxycodone": "109.47",
+      "Fentanyl": "53.76",
+      "Hydromorphone": "4.14",
+      "Total": "2595.56"
+    },
+    {
+      "Year": 1994,
+      "Methadone": "1752.7",
+      "Morphine": "626.54",
+      "Pethidine": "185.3",
+      "Oxycodone": "109.72",
+      "Fentanyl": "67.67",
+      "Hydromorphone": "0.27",
+      "Total": "2742.19"
+    },
+    {
+      "Year": 1995,
+      "Methadone": "1996.23",
+      "Morphine": "945.27",
+      "Pethidine": "168.58",
+      "Oxycodone": "118.84",
+      "Fentanyl": "60.54",
+      "Hydromorphone": "0.05",
+      "Total": "3289.51"
+    },
+    {
+      "Year": 1996,
+      "Methadone": "2184.17",
+      "Morphine": "924.4",
+      "Pethidine": "158.22",
+      "Oxycodone": "159.82",
+      "Fentanyl": "63.71",
+      "Hydromorphone": "0.06",
+      "Total": "3490.4"
+    },
+    {
+      "Year": 1997,
+      "Methadone": "2429.59",
+      "Morphine": "899.08",
+      "Pethidine": "144.27",
+      "Oxycodone": "152.15",
+      "Fentanyl": "74.35",
+      "Hydromorphone": "2.05",
+      "Total": "3701.49"
+    },
+    {
+      "Year": 1998,
+      "Methadone": "2471.3",
+      "Morphine": "701.51",
+      "Pethidine": "142.65",
+      "Oxycodone": "165.05",
+      "Fentanyl": "93.4",
+      "Hydromorphone": "5.43",
+      "Total": "3579.35"
+    },
+    {
+      "Year": 1999,
+      "Methadone": "2816.5",
+      "Morphine": "1314.22",
+      "Pethidine": "88.73",
+      "Oxycodone": "151.97",
+      "Fentanyl": "112.51",
+      "Hydromorphone": "1.27",
+      "Total": "4485.21"
+    },
+    {
+      "Year": 2000,
+      "Methadone": "2965.67",
+      "Morphine": "1187.42",
+      "Pethidine": "96.68",
+      "Oxycodone": "242.93",
+      "Fentanyl": "232.73",
+      "Hydromorphone": "4.42",
+      "Total": "4729.85"
+    },
+    {
+      "Year": 2001,
+      "Methadone": "2951.5",
+      "Morphine": "1209.22",
+      "Pethidine": "90.61",
+      "Oxycodone": "427.09",
+      "Fentanyl": "297.81",
+      "Hydromorphone": "26.75",
+      "Total": "5002.98"
+    },
+    {
+      "Year": 2002,
+      "Methadone": "2664.33",
+      "Morphine": "1215.64",
+      "Pethidine": "73.7",
+      "Oxycodone": "583.24",
+      "Fentanyl": "350.31",
+      "Hydromorphone": "37.59",
+      "Total": "4924.81"
+    },
+    {
+      "Year": 2003,
+      "Methadone": "2594.53",
+      "Morphine": "1214.61",
+      "Pethidine": "63.12",
+      "Oxycodone": "722.49",
+      "Fentanyl": "407.84",
+      "Hydromorphone": "27.9",
+      "Total": "5030.49"
+    },
+    {
+      "Year": 2004,
+      "Methadone": "2836.97",
+      "Morphine": "1270.41",
+      "Pethidine": "53.56",
+      "Oxycodone": "951.62",
+      "Fentanyl": "434.39",
+      "Hydromorphone": "35.93",
+      "Total": "5582.88"
+    },
+    {
+      "Year": 2005,
+      "Methadone": "2917.35",
+      "Morphine": "1225.05",
+      "Pethidine": "41.11",
+      "Oxycodone": "1159.04",
+      "Fentanyl": "428.66",
+      "Hydromorphone": "42.68",
+      "Total": "5813.9"
+    },
+    {
+      "Year": 2006,
+      "Methadone": "2922.36",
+      "Morphine": "1175.03",
+      "Pethidine": "32.58",
+      "Oxycodone": "1378.67",
+      "Fentanyl": "690.55",
+      "Hydromorphone": "45.3",
+      "Total": "6244.5"
+    },
+    {
+      "Year": 2007,
+      "Methadone": "2940.86",
+      "Morphine": "1134.27",
+      "Pethidine": "28.51",
+      "Oxycodone": "1622.8",
+      "Fentanyl": "1184.1",
+      "Hydromorphone": "47.02",
+      "Total": "6957.56"
+    },
+    {
+      "Year": 2008,
+      "Methadone": "3015.1",
+      "Morphine": "1074.86",
+      "Pethidine": "23.76",
+      "Oxycodone": "1838.64",
+      "Fentanyl": "1545.83",
+      "Hydromorphone": "46.27",
+      "Total": "7544.45"
+    },
+    {
+      "Year": 2009,
+      "Methadone": "3145.79",
+      "Morphine": "1026.92",
+      "Pethidine": "19.8",
+      "Oxycodone": "2059.39",
+      "Fentanyl": "2006.25",
+      "Hydromorphone": "56.88",
+      "Total": "8315.03"
+    },
+    {
+      "Year": 2010,
+      "Methadone": "3259.52",
+      "Morphine": "1036.41",
+      "Pethidine": "17.06",
+      "Oxycodone": "2242.41",
+      "Fentanyl": "1402.34",
+      "Hydromorphone": "124.85",
+      "Total": "8082.59"
+    },
+    {
+      "Year": 2011,
+      "Methadone": "3224.82",
+      "Morphine": "1042.91",
+      "Pethidine": "14.84",
+      "Oxycodone": "2796.84",
+      "Fentanyl": "2787.4",
+      "Hydromorphone": "0.01",
+      "Total": "9866.82"
+    },
+    {
+      "Year": 2012,
+      "Methadone": "3204.65",
+      "Morphine": "923.44",
+      "Pethidine": "14.73",
+      "Oxycodone": "2619.98",
+      "Fentanyl": "4058.83",
+      "Hydromorphone": "310.64",
+      "Total": "11132.28"
+    },
+    {
+      "Year": 2013,
+      "Methadone": "3178.08",
+      "Morphine": "864.21",
+      "Pethidine": "12.15",
+      "Oxycodone": "3204.49",
+      "Fentanyl": "2911.76",
+      "Hydromorphone": "325.91",
+      "Total": "10496.61"
+    },
+    {
+      "Year": 2014,
+      "Methadone": "3149.03",
+      "Morphine": "807.74",
+      "Pethidine": "10.41",
+      "Oxycodone": "4651.05",
+      "Fentanyl": "2468.58",
+      "Hydromorphone": "335.83",
+      "Total": "11422.65"
+    },
+    {
+      "Year": 2015,
+      "Methadone": "3085.52",
+      "Morphine": "743.45",
+      "Pethidine": "8.41",
+      "Oxycodone": "3213.87",
+      "Fentanyl": "2750.3",
+      "Hydromorphone": "338.07",
+      "Total": "10139.62"
+    }
+  ],
+  "China": [
+    {
+      "Year": 1980,
+      "Methadone": "N/A",
+      "Morphine": "N/A",
+      "Pethidine": "N/A",
+      "Oxycodone": "N/A",
+      "Fentanyl": "N/A",
+      "Hydromorphone": "N/A",
+      "Total": "N/A"
+    },
+    {
+      "Year": 1981,
+      "Methadone": "N/A",
+      "Morphine": "N/A",
+      "Pethidine": "N/A",
+      "Oxycodone": "N/A",
+      "Fentanyl": "N/A",
+      "Hydromorphone": "N/A",
+      "Total": "N/A"
+    },
+    {
+      "Year": 1982,
+      "Methadone": "N/A",
+      "Morphine": "N/A",
+      "Pethidine": "N/A",
+      "Oxycodone": "N/A",
+      "Fentanyl": "N/A",
+      "Hydromorphone": "N/A",
+      "Total": "N/A"
+    },
+    {
+      "Year": 1983,
+      "Methadone": "N/A",
+      "Morphine": "9.36",
+      "Pethidine": "432.2",
+      "Oxycodone": "N/A",
+      "Fentanyl": "N/A",
+      "Hydromorphone": "N/A",
+      "Total": "441.57"
+    },
+    {
+      "Year": 1984,
+      "Methadone": "16.42",
+      "Morphine": "6.38",
+      "Pethidine": "352.96",
+      "Oxycodone": "N/A",
+      "Fentanyl": "4.48",
+      "Hydromorphone": "N/A",
+      "Total": "380.37"
+    },
+    {
+      "Year": 1985,
+      "Methadone": "16.15",
+      "Morphine": "8.14",
+      "Pethidine": "322.15",
+      "Oxycodone": "N/A",
+      "Fentanyl": "6.11",
+      "Hydromorphone": "N/A",
+      "Total": "352.68"
+    },
+    {
+      "Year": 1986,
+      "Methadone": "18.05",
+      "Morphine": "6.92",
+      "Pethidine": "434.24",
+      "Oxycodone": "N/A",
+      "Fentanyl": "7.33",
+      "Hydromorphone": "N/A",
+      "Total": "466.4"
+    },
+    {
+      "Year": 1987,
+      "Methadone": "44.24",
+      "Morphine": "9.5",
+      "Pethidine": "427.46",
+      "Oxycodone": "N/A",
+      "Fentanyl": "7.19",
+      "Hydromorphone": "N/A",
+      "Total": "488.38"
+    },
+    {
+      "Year": 1988,
+      "Methadone": "N/A",
+      "Morphine": "10.58",
+      "Pethidine": "612.96",
+      "Oxycodone": "N/A",
+      "Fentanyl": "18.18",
+      "Hydromorphone": "N/A",
+      "Total": "641.73"
+    },
+    {
+      "Year": 1989,
+      "Methadone": "N/A",
+      "Morphine": "12.76",
+      "Pethidine": "636.03",
+      "Oxycodone": "N/A",
+      "Fentanyl": "12.76",
+      "Hydromorphone": "N/A",
+      "Total": "661.54"
+    },
+    {
+      "Year": 1990,
+      "Methadone": "N/A",
+      "Morphine": "N/A",
+      "Pethidine": "N/A",
+      "Oxycodone": "N/A",
+      "Fentanyl": "N/A",
+      "Hydromorphone": "N/A",
+      "Total": "N/A"
+    },
+    {
+      "Year": 1991,
+      "Methadone": "N/A",
+      "Morphine": "32.16",
+      "Pethidine": "752.86",
+      "Oxycodone": "N/A",
+      "Fentanyl": "117.65",
+      "Hydromorphone": "N/A",
+      "Total": "902.54"
+    },
+    {
+      "Year": 1992,
+      "Methadone": "N/A",
+      "Morphine": "12.35",
+      "Pethidine": "726.27",
+      "Oxycodone": "N/A",
+      "Fentanyl": "30.53",
+      "Hydromorphone": "N/A",
+      "Total": "769.15"
+    },
+    {
+      "Year": 1993,
+      "Methadone": "N/A",
+      "Morphine": "14.66",
+      "Pethidine": "821.53",
+      "Oxycodone": "N/A",
+      "Fentanyl": "31.62",
+      "Hydromorphone": "N/A",
+      "Total": "867.94"
+    },
+    {
+      "Year": 1994,
+      "Methadone": "26.33",
+      "Morphine": "119.42",
+      "Pethidine": "428.68",
+      "Oxycodone": "N/A",
+      "Fentanyl": "10.58",
+      "Hydromorphone": "N/A",
+      "Total": "585"
+    },
+    {
+      "Year": 1995,
+      "Methadone": "70.97",
+      "Morphine": "125.66",
+      "Pethidine": "670.9",
+      "Oxycodone": "N/A",
+      "Fentanyl": "21.85",
+      "Hydromorphone": "N/A",
+      "Total": "889.24"
+    },
+    {
+      "Year": 1996,
+      "Methadone": "94.31",
+      "Morphine": "159.04",
+      "Pethidine": "722.6",
+      "Oxycodone": "N/A",
+      "Fentanyl": "20.9",
+      "Hydromorphone": "N/A",
+      "Total": "996.72"
+    },
+    {
+      "Year": 1997,
+      "Methadone": "32.84",
+      "Morphine": "110.6",
+      "Pethidine": "495.71",
+      "Oxycodone": "N/A",
+      "Fentanyl": "18.05",
+      "Hydromorphone": "N/A",
+      "Total": "657.2"
+    },
+    {
+      "Year": 1998,
+      "Methadone": "57.4",
+      "Morphine": "117.11",
+      "Pethidine": "476.85",
+      "Oxycodone": "N/A",
+      "Fentanyl": "26.73",
+      "Hydromorphone": "N/A",
+      "Total": "678.09"
+    },
+    {
+      "Year": 1999,
+      "Methadone": "70.56",
+      "Morphine": "156.33",
+      "Pethidine": "601.56",
+      "Oxycodone": "N/A",
+      "Fentanyl": "66.22",
+      "Hydromorphone": "N/A",
+      "Total": "894.81"
+    },
+    {
+      "Year": 2000,
+      "Methadone": "64.05",
+      "Morphine": "171.66",
+      "Pethidine": "628.29",
+      "Oxycodone": "N/A",
+      "Fentanyl": "59.17",
+      "Hydromorphone": "N/A",
+      "Total": "923.17"
+    },
+    {
+      "Year": 2001,
+      "Methadone": "82.1",
+      "Morphine": "222.96",
+      "Pethidine": "645.8",
+      "Oxycodone": "N/A",
+      "Fentanyl": "154.16",
+      "Hydromorphone": "N/A",
+      "Total": "1105.14"
+    },
+    {
+      "Year": 2002,
+      "Methadone": "126.74",
+      "Morphine": "267.33",
+      "Pethidine": "666.42",
+      "Oxycodone": "1.36",
+      "Fentanyl": "141.4",
+      "Hydromorphone": "N/A",
+      "Total": "1203.25"
+    },
+    {
+      "Year": 2003,
+      "Methadone": "116.02",
+      "Morphine": "296.37",
+      "Pethidine": "575.1",
+      "Oxycodone": "7.6",
+      "Fentanyl": "345.36",
+      "Hydromorphone": "N/A",
+      "Total": "1340.44"
+    },
+    {
+      "Year": 2004,
+      "Methadone": "305.19",
+      "Morphine": "437.09",
+      "Pethidine": "874.45",
+      "Oxycodone": "N/A",
+      "Fentanyl": "467.76",
+      "Hydromorphone": "N/A",
+      "Total": "2084.49"
+    },
+    {
+      "Year": 2005,
+      "Methadone": "560.17",
+      "Morphine": "475.49",
+      "Pethidine": "454.32",
+      "Oxycodone": "63.91",
+      "Fentanyl": "555.96",
+      "Hydromorphone": "N/A",
+      "Total": "2110"
+    },
+    {
+      "Year": 2006,
+      "Methadone": "1559.74",
+      "Morphine": "566",
+      "Pethidine": "404.66",
+      "Oxycodone": "32.84",
+      "Fentanyl": "448.62",
+      "Hydromorphone": "N/A",
+      "Total": "3011.73"
+    },
+    {
+      "Year": 2007,
+      "Methadone": "2435.14",
+      "Morphine": "661.94",
+      "Pethidine": "403.98",
+      "Oxycodone": "79.79",
+      "Fentanyl": "705.91",
+      "Hydromorphone": "N/A",
+      "Total": "4286.63"
+    },
+    {
+      "Year": 2008,
+      "Methadone": "4809.89",
+      "Morphine": "924.8",
+      "Pethidine": "452.02",
+      "Oxycodone": "158.9",
+      "Fentanyl": "956.14",
+      "Hydromorphone": "0.95",
+      "Total": "7302.7"
+    },
+    {
+      "Year": 2009,
+      "Methadone": "5463.55",
+      "Morphine": "888.97",
+      "Pethidine": "587.04",
+      "Oxycodone": "81.83",
+      "Fentanyl": "1048.15",
+      "Hydromorphone": "1.36",
+      "Total": "8070.76"
+    },
+    {
+      "Year": 2010,
+      "Methadone": "6209.77",
+      "Morphine": "976.77",
+      "Pethidine": "280.36",
+      "Oxycodone": "111.41",
+      "Fentanyl": "1383.05",
+      "Hydromorphone": "1.9",
+      "Total": "8963.12"
+    },
+    {
+      "Year": 2011,
+      "Methadone": "6411.01",
+      "Morphine": "1007.03",
+      "Pethidine": "319.3",
+      "Oxycodone": "173.29",
+      "Fentanyl": "861.29",
+      "Hydromorphone": "2.04",
+      "Total": "8773.82"
+    },
+    {
+      "Year": 2012,
+      "Methadone": "7182.6",
+      "Morphine": "1252.65",
+      "Pethidine": "369.78",
+      "Oxycodone": "502.5",
+      "Fentanyl": "1209.36",
+      "Hydromorphone": "N/A",
+      "Total": "10517.02"
+    },
+    {
+      "Year": 2013,
+      "Methadone": "7407.46",
+      "Morphine": "1605.06",
+      "Pethidine": "287.96",
+      "Oxycodone": "1062.12",
+      "Fentanyl": "1051.13",
+      "Hydromorphone": "N/A",
+      "Total": "11413.73"
+    },
+    {
+      "Year": 2014,
+      "Methadone": "5974.46",
+      "Morphine": "1450.5",
+      "Pethidine": "193.51",
+      "Oxycodone": "776.2",
+      "Fentanyl": "1375.73",
+      "Hydromorphone": "0.68",
+      "Total": "9771.08"
+    },
+    {
+      "Year": 2015,
+      "Methadone": "5982.33",
+      "Morphine": "1639.26",
+      "Pethidine": "169.08",
+      "Oxycodone": "1246.27",
+      "Fentanyl": "509.82",
+      "Hydromorphone": "20.76",
+      "Total": "9567.53"
+    }
+  ],
+  "Belgium": [
+    {
+      "Year": 1980,
+      "Methadone": "41.2",
+      "Morphine": "12.66",
+      "Pethidine": "10.8",
+      "Oxycodone": "1.55",
+      "Fentanyl": "9.09",
+      "Hydromorphone": "N/A",
+      "Total": "75.31"
+    },
+    {
+      "Year": 1981,
+      "Methadone": "36.3",
+      "Morphine": "8",
+      "Pethidine": "11.89",
+      "Oxycodone": "2.24",
+      "Fentanyl": "12.48",
+      "Hydromorphone": "N/A",
+      "Total": "70.9"
+    },
+    {
+      "Year": 1982,
+      "Methadone": "47.88",
+      "Morphine": "11.22",
+      "Pethidine": "12.9",
+      "Oxycodone": "2.12",
+      "Fentanyl": "15.36",
+      "Hydromorphone": "N/A",
+      "Total": "89.48"
+    },
+    {
+      "Year": 1983,
+      "Methadone": "34.04",
+      "Morphine": "9.09",
+      "Pethidine": "12.16",
+      "Oxycodone": "1.79",
+      "Fentanyl": "19.45",
+      "Hydromorphone": "N/A",
+      "Total": "76.53"
+    },
+    {
+      "Year": 1984,
+      "Methadone": "31.18",
+      "Morphine": "11.83",
+      "Pethidine": "10.21",
+      "Oxycodone": "1.84",
+      "Fentanyl": "14.37",
+      "Hydromorphone": "N/A",
+      "Total": "69.42"
+    },
+    {
+      "Year": 1985,
+      "Methadone": "30.33",
+      "Morphine": "10.61",
+      "Pethidine": "12.17",
+      "Oxycodone": "1.96",
+      "Fentanyl": "17.75",
+      "Hydromorphone": "0.06",
+      "Total": "72.89"
+    },
+    {
+      "Year": 1986,
+      "Methadone": "31.39",
+      "Morphine": "17.44",
+      "Pethidine": "11.15",
+      "Oxycodone": "1.57",
+      "Fentanyl": "21.44",
+      "Hydromorphone": "N/A",
+      "Total": "82.99"
+    },
+    {
+      "Year": 1987,
+      "Methadone": "30.1",
+      "Morphine": "23.9",
+      "Pethidine": "8.84",
+      "Oxycodone": "1.03",
+      "Fentanyl": "24.01",
+      "Hydromorphone": "N/A",
+      "Total": "87.88"
+    },
+    {
+      "Year": 1988,
+      "Methadone": "31.92",
+      "Morphine": "27.95",
+      "Pethidine": "11.44",
+      "Oxycodone": "2.1",
+      "Fentanyl": "21.65",
+      "Hydromorphone": "N/A",
+      "Total": "95.05"
+    },
+    {
+      "Year": 1989,
+      "Methadone": "26.34",
+      "Morphine": "33.8",
+      "Pethidine": "7.37",
+      "Oxycodone": "1.54",
+      "Fentanyl": "23.85",
+      "Hydromorphone": "N/A",
+      "Total": "92.9"
+    },
+    {
+      "Year": 1990,
+      "Methadone": "31.69",
+      "Morphine": "40.92",
+      "Pethidine": "11.95",
+      "Oxycodone": "1.13",
+      "Fentanyl": "23.28",
+      "Hydromorphone": "N/A",
+      "Total": "108.97"
+    },
+    {
+      "Year": 1991,
+      "Methadone": "44.09",
+      "Morphine": "56.77",
+      "Pethidine": "6.07",
+      "Oxycodone": "0.74",
+      "Fentanyl": "26.9",
+      "Hydromorphone": "N/A",
+      "Total": "134.57"
+    },
+    {
+      "Year": 1992,
+      "Methadone": "88.48",
+      "Morphine": "68.22",
+      "Pethidine": "8.37",
+      "Oxycodone": "0.97",
+      "Fentanyl": "25.23",
+      "Hydromorphone": "1.48",
+      "Total": "192.76"
+    },
+    {
+      "Year": 1993,
+      "Methadone": "214.77",
+      "Morphine": "76.93",
+      "Pethidine": "8.49",
+      "Oxycodone": "2.42",
+      "Fentanyl": "25.74",
+      "Hydromorphone": "3",
+      "Total": "331.34"
+    },
+    {
+      "Year": 1994,
+      "Methadone": "273.9",
+      "Morphine": "98.4",
+      "Pethidine": "7.81",
+      "Oxycodone": "3.42",
+      "Fentanyl": "16.54",
+      "Hydromorphone": "1",
+      "Total": "401.07"
+    },
+    {
+      "Year": 1995,
+      "Methadone": "374.04",
+      "Morphine": "97.25",
+      "Pethidine": "6.17",
+      "Oxycodone": "1.03",
+      "Fentanyl": "23.67",
+      "Hydromorphone": "0.09",
+      "Total": "502.25"
+    },
+    {
+      "Year": 1996,
+      "Methadone": "520.81",
+      "Morphine": "115.77",
+      "Pethidine": "9.53",
+      "Oxycodone": "0.99",
+      "Fentanyl": "36.37",
+      "Hydromorphone": "0.97",
+      "Total": "684.44"
+    },
+    {
+      "Year": 1997,
+      "Methadone": "751.96",
+      "Morphine": "116.41",
+      "Pethidine": "7.04",
+      "Oxycodone": "0.72",
+      "Fentanyl": "146.9",
+      "Hydromorphone": "0.52",
+      "Total": "1023.55"
+    },
+    {
+      "Year": 1998,
+      "Methadone": "453.4",
+      "Morphine": "116.92",
+      "Pethidine": "13.18",
+      "Oxycodone": "0.41",
+      "Fentanyl": "288.62",
+      "Hydromorphone": "0.16",
+      "Total": "872.7"
+    },
+    {
+      "Year": 1999,
+      "Methadone": "717.7",
+      "Morphine": "132.6",
+      "Pethidine": "5",
+      "Oxycodone": "0.57",
+      "Fentanyl": "696.27",
+      "Hydromorphone": "0.97",
+      "Total": "1553.1"
+    },
+    {
+      "Year": 2000,
+      "Methadone": "874.76",
+      "Morphine": "147.17",
+      "Pethidine": "6.55",
+      "Oxycodone": "0.67",
+      "Fentanyl": "612.58",
+      "Hydromorphone": "4.5",
+      "Total": "1646.23"
+    },
+    {
+      "Year": 2001,
+      "Methadone": "899.22",
+      "Morphine": "172.39",
+      "Pethidine": "8.13",
+      "Oxycodone": "0.39",
+      "Fentanyl": "824.5",
+      "Hydromorphone": "1.4",
+      "Total": "1906.04"
+    },
+    {
+      "Year": 2002,
+      "Methadone": "926.49",
+      "Morphine": "180.78",
+      "Pethidine": "8.84",
+      "Oxycodone": "0.4",
+      "Fentanyl": "852.07",
+      "Hydromorphone": "0.62",
+      "Total": "1969.19"
+    },
+    {
+      "Year": 2003,
+      "Methadone": "902.74",
+      "Morphine": "163.16",
+      "Pethidine": "7.23",
+      "Oxycodone": "3.73",
+      "Fentanyl": "1908.69",
+      "Hydromorphone": "6.33",
+      "Total": "2991.87"
+    },
+    {
+      "Year": 2004,
+      "Methadone": "1088.02",
+      "Morphine": "123.54",
+      "Pethidine": "9.99",
+      "Oxycodone": "0.27",
+      "Fentanyl": "4165.45",
+      "Hydromorphone": "6.56",
+      "Total": "5393.84"
+    },
+    {
+      "Year": 2005,
+      "Methadone": "1205.04",
+      "Morphine": "149.97",
+      "Pethidine": "10.46",
+      "Oxycodone": "0.53",
+      "Fentanyl": "1634.54",
+      "Hydromorphone": "35.67",
+      "Total": "3036.21"
+    },
+    {
+      "Year": 2006,
+      "Methadone": "1274.09",
+      "Morphine": "154.72",
+      "Pethidine": "6.33",
+      "Oxycodone": "0.25",
+      "Fentanyl": "1894.16",
+      "Hydromorphone": "92.34",
+      "Total": "3421.89"
+    },
+    {
+      "Year": 2007,
+      "Methadone": "993.36",
+      "Morphine": "149.16",
+      "Pethidine": "5.88",
+      "Oxycodone": "12.58",
+      "Fentanyl": "2450.29",
+      "Hydromorphone": "64.32",
+      "Total": "3675.58"
+    },
+    {
+      "Year": 2008,
+      "Methadone": "1118.77",
+      "Morphine": "151.51",
+      "Pethidine": "5.21",
+      "Oxycodone": "53.85",
+      "Fentanyl": "2901",
+      "Hydromorphone": "58.45",
+      "Total": "4288.8"
+    },
+    {
+      "Year": 2009,
+      "Methadone": "1106.96",
+      "Morphine": "167.15",
+      "Pethidine": "5.73",
+      "Oxycodone": "25.17",
+      "Fentanyl": "1442.94",
+      "Hydromorphone": "38.95",
+      "Total": "2786.9"
+    },
+    {
+      "Year": 2010,
+      "Methadone": "1414.52",
+      "Morphine": "161.49",
+      "Pethidine": "5.72",
+      "Oxycodone": "132.86",
+      "Fentanyl": "2010.74",
+      "Hydromorphone": "52.41",
+      "Total": "3777.73"
+    },
+    {
+      "Year": 2011,
+      "Methadone": "1148.61",
+      "Morphine": "88.43",
+      "Pethidine": "5.62",
+      "Oxycodone": "136.22",
+      "Fentanyl": "2063.05",
+      "Hydromorphone": "110",
+      "Total": "3551.93"
+    },
+    {
+      "Year": 2012,
+      "Methadone": "1459.87",
+      "Morphine": "136.32",
+      "Pethidine": "9.95",
+      "Oxycodone": "305.54",
+      "Fentanyl": "3774.07",
+      "Hydromorphone": "171.38",
+      "Total": "5857.13"
+    },
+    {
+      "Year": 2013,
+      "Methadone": "1703.8",
+      "Morphine": "111.7",
+      "Pethidine": "10.95",
+      "Oxycodone": "196.39",
+      "Fentanyl": "3155.9",
+      "Hydromorphone": "37.86",
+      "Total": "5216.59"
+    },
+    {
+      "Year": 2014,
+      "Methadone": "424.06",
+      "Morphine": "104.41",
+      "Pethidine": "2.91",
+      "Oxycodone": "382.46",
+      "Fentanyl": "2405.85",
+      "Hydromorphone": "228.33",
+      "Total": "3548.03"
+    },
+    {
+      "Year": 2015,
+      "Methadone": "1049.7",
+      "Morphine": "99.39",
+      "Pethidine": "1.71",
+      "Oxycodone": "346.65",
+      "Fentanyl": "3249.29",
+      "Hydromorphone": "37.35",
+      "Total": "4784.07"
+    }
+  ],
+  "Austria": [
+    {
+      "Year": 1980,
+      "Methadone": "13.58",
+      "Morphine": "3.87",
+      "Pethidine": "14.44",
+      "Oxycodone": "N/A",
+      "Fentanyl": "5.54",
+      "Hydromorphone": "N/A",
+      "Total": "37.43"
+    },
+    {
+      "Year": 1981,
+      "Methadone": "13.12",
+      "Morphine": "4.72",
+      "Pethidine": "12.22",
+      "Oxycodone": "N/A",
+      "Fentanyl": "5.81",
+      "Hydromorphone": "N/A",
+      "Total": "35.88"
+    },
+    {
+      "Year": 1982,
+      "Methadone": "12.32",
+      "Morphine": "2.84",
+      "Pethidine": "18.02",
+      "Oxycodone": "N/A",
+      "Fentanyl": "6.83",
+      "Hydromorphone": "N/A",
+      "Total": "40.02"
+    },
+    {
+      "Year": 1983,
+      "Methadone": "12.47",
+      "Morphine": "5.98",
+      "Pethidine": "6.49",
+      "Oxycodone": "N/A",
+      "Fentanyl": "7.23",
+      "Hydromorphone": "N/A",
+      "Total": "32.16"
+    },
+    {
+      "Year": 1984,
+      "Methadone": "13.29",
+      "Morphine": "6.49",
+      "Pethidine": "15.43",
+      "Oxycodone": "N/A",
+      "Fentanyl": "7.5",
+      "Hydromorphone": "N/A",
+      "Total": "42.72"
+    },
+    {
+      "Year": 1985,
+      "Methadone": "11.94",
+      "Morphine": "7.57",
+      "Pethidine": "9.82",
+      "Oxycodone": "N/A",
+      "Fentanyl": "9.19",
+      "Hydromorphone": "N/A",
+      "Total": "38.52"
+    },
+    {
+      "Year": 1986,
+      "Methadone": "12.01",
+      "Morphine": "11.03",
+      "Pethidine": "14.4",
+      "Oxycodone": "N/A",
+      "Fentanyl": "10.95",
+      "Hydromorphone": "N/A",
+      "Total": "48.39"
+    },
+    {
+      "Year": 1987,
+      "Methadone": "28.49",
+      "Morphine": "14.33",
+      "Pethidine": "4.03",
+      "Oxycodone": "N/A",
+      "Fentanyl": "11.13",
+      "Hydromorphone": "N/A",
+      "Total": "57.97"
+    },
+    {
+      "Year": 1988,
+      "Methadone": "63.47",
+      "Morphine": "25.74",
+      "Pethidine": "9.95",
+      "Oxycodone": "N/A",
+      "Fentanyl": "11.63",
+      "Hydromorphone": "N/A",
+      "Total": "110.79"
+    },
+    {
+      "Year": 1989,
+      "Methadone": "80.5",
+      "Morphine": "36.63",
+      "Pethidine": "11.38",
+      "Oxycodone": "N/A",
+      "Fentanyl": "12.39",
+      "Hydromorphone": "N/A",
+      "Total": "140.9"
+    },
+    {
+      "Year": 1990,
+      "Methadone": "110.86",
+      "Morphine": "46.21",
+      "Pethidine": "8.49",
+      "Oxycodone": "N/A",
+      "Fentanyl": "12.65",
+      "Hydromorphone": "N/A",
+      "Total": "178.21"
+    },
+    {
+      "Year": 1991,
+      "Methadone": "141.61",
+      "Morphine": "56.08",
+      "Pethidine": "10.57",
+      "Oxycodone": "N/A",
+      "Fentanyl": "14.23",
+      "Hydromorphone": "N/A",
+      "Total": "222.49"
+    },
+    {
+      "Year": 1992,
+      "Methadone": "157.49",
+      "Morphine": "86",
+      "Pethidine": "8.34",
+      "Oxycodone": "N/A",
+      "Fentanyl": "15.04",
+      "Hydromorphone": "N/A",
+      "Total": "266.87"
+    },
+    {
+      "Year": 1993,
+      "Methadone": "180.68",
+      "Morphine": "79.8",
+      "Pethidine": "6.37",
+      "Oxycodone": "N/A",
+      "Fentanyl": "15.6",
+      "Hydromorphone": "0.01",
+      "Total": "282.46"
+    },
+    {
+      "Year": 1994,
+      "Methadone": "198.94",
+      "Morphine": "97.16",
+      "Pethidine": "5.58",
+      "Oxycodone": "N/A",
+      "Fentanyl": "14.82",
+      "Hydromorphone": "N/A",
+      "Total": "316.5"
+    },
+    {
+      "Year": 1995,
+      "Methadone": "217.87",
+      "Morphine": "136.33",
+      "Pethidine": "5.87",
+      "Oxycodone": "N/A",
+      "Fentanyl": "16.99",
+      "Hydromorphone": "0.72",
+      "Total": "377.78"
+    },
+    {
+      "Year": 1996,
+      "Methadone": "226.07",
+      "Morphine": "201.39",
+      "Pethidine": "4.64",
+      "Oxycodone": "N/A",
+      "Fentanyl": "49.39",
+      "Hydromorphone": "0.78",
+      "Total": "482.27"
+    },
+    {
+      "Year": 1997,
+      "Methadone": "222.24",
+      "Morphine": "274.86",
+      "Pethidine": "4.32",
+      "Oxycodone": "N/A",
+      "Fentanyl": "186.29",
+      "Hydromorphone": "11.26",
+      "Total": "698.98"
+    },
+    {
+      "Year": 1998,
+      "Methadone": "235.16",
+      "Morphine": "286.61",
+      "Pethidine": "4.4",
+      "Oxycodone": "N/A",
+      "Fentanyl": "244.83",
+      "Hydromorphone": "21.62",
+      "Total": "792.61"
+    },
+    {
+      "Year": 1999,
+      "Methadone": "246.55",
+      "Morphine": "311.91",
+      "Pethidine": "3.76",
+      "Oxycodone": "0.44",
+      "Fentanyl": "331.11",
+      "Hydromorphone": "32.82",
+      "Total": "926.59"
+    },
+    {
+      "Year": 2000,
+      "Methadone": "244.22",
+      "Morphine": "391.81",
+      "Pethidine": "N/A",
+      "Oxycodone": "0.5",
+      "Fentanyl": "403.78",
+      "Hydromorphone": "51.77",
+      "Total": "1092.08"
+    },
+    {
+      "Year": 2001,
+      "Methadone": "259.04",
+      "Morphine": "500.19",
+      "Pethidine": "3.52",
+      "Oxycodone": "7.74",
+      "Fentanyl": "485.43",
+      "Hydromorphone": "78.73",
+      "Total": "1334.65"
+    },
+    {
+      "Year": 2002,
+      "Methadone": "265.4",
+      "Morphine": "607.7",
+      "Pethidine": "3.28",
+      "Oxycodone": "20.83",
+      "Fentanyl": "543.03",
+      "Hydromorphone": "107.45",
+      "Total": "1547.67"
+    },
+    {
+      "Year": 2003,
+      "Methadone": "244.27",
+      "Morphine": "791.04",
+      "Pethidine": "2.94",
+      "Oxycodone": "24.3",
+      "Fentanyl": "548.4",
+      "Hydromorphone": "117.47",
+      "Total": "1728.43"
+    },
+    {
+      "Year": 2004,
+      "Methadone": "252.46",
+      "Morphine": "983.58",
+      "Pethidine": "2.62",
+      "Oxycodone": "30.45",
+      "Fentanyl": "618.68",
+      "Hydromorphone": "136.75",
+      "Total": "2024.53"
+    },
+    {
+      "Year": 2005,
+      "Methadone": "244.1",
+      "Morphine": "1032.31",
+      "Pethidine": "2.35",
+      "Oxycodone": "37.31",
+      "Fentanyl": "782.65",
+      "Hydromorphone": "160.2",
+      "Total": "2258.91"
+    },
+    {
+      "Year": 2006,
+      "Methadone": "245.75",
+      "Morphine": "1304.9",
+      "Pethidine": "12.74",
+      "Oxycodone": "47.35",
+      "Fentanyl": "923.55",
+      "Hydromorphone": "187.06",
+      "Total": "2721.34"
+    },
+    {
+      "Year": 2007,
+      "Methadone": "235.09",
+      "Morphine": "1304.57",
+      "Pethidine": "2.21",
+      "Oxycodone": "54.87",
+      "Fentanyl": "1451.89",
+      "Hydromorphone": "236.5",
+      "Total": "3285.13"
+    },
+    {
+      "Year": 2008,
+      "Methadone": "245.2",
+      "Morphine": "1418.71",
+      "Pethidine": "1.78",
+      "Oxycodone": "62.01",
+      "Fentanyl": "1554.35",
+      "Hydromorphone": "290.12",
+      "Total": "3572.16"
+    },
+    {
+      "Year": 2009,
+      "Methadone": "250.82",
+      "Morphine": "1505.63",
+      "Pethidine": "1.62",
+      "Oxycodone": "66.72",
+      "Fentanyl": "1713.21",
+      "Hydromorphone": "331.37",
+      "Total": "3869.37"
+    },
+    {
+      "Year": 2010,
+      "Methadone": "258.2",
+      "Morphine": "1041.28",
+      "Pethidine": "1.71",
+      "Oxycodone": "75.43",
+      "Fentanyl": "1757.77",
+      "Hydromorphone": "379.53",
+      "Total": "3513.92"
+    },
+    {
+      "Year": 2011,
+      "Methadone": "297.09",
+      "Morphine": "1893.68",
+      "Pethidine": "1.59",
+      "Oxycodone": "83.39",
+      "Fentanyl": "1816.74",
+      "Hydromorphone": "429.07",
+      "Total": "4521.55"
+    },
+    {
+      "Year": 2012,
+      "Methadone": "222.49",
+      "Morphine": "1693.25",
+      "Pethidine": "1.69",
+      "Oxycodone": "96.03",
+      "Fentanyl": "1884.96",
+      "Hydromorphone": "466.28",
+      "Total": "4364.69"
+    },
+    {
+      "Year": 2013,
+      "Methadone": "203.38",
+      "Morphine": "1722.23",
+      "Pethidine": "1.54",
+      "Oxycodone": "105.75",
+      "Fentanyl": "1881.24",
+      "Hydromorphone": "503.85",
+      "Total": "4417.99"
+    },
+    {
+      "Year": 2014,
+      "Methadone": "205.68",
+      "Morphine": "1767.69",
+      "Pethidine": "1.3",
+      "Oxycodone": "111.24",
+      "Fentanyl": "1908.34",
+      "Hydromorphone": "544.08",
+      "Total": "4538.33"
+    },
+    {
+      "Year": 2015,
+      "Methadone": "205.62",
+      "Morphine": "1814.39",
+      "Pethidine": "1.31",
+      "Oxycodone": "114.18",
+      "Fentanyl": "1815.36",
+      "Hydromorphone": "561.56",
+      "Total": "4512.42"
+    }
+  ]
+}

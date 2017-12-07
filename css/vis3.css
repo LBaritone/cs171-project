@@ -1,0 +1,38 @@
+#vis3{
+	/*background-color: #555555;*/
+	padding-left: 5em;
+}
+
+
+path.line
+{
+    fill: none;
+    stroke: #000;
+}
+
+
+.line {
+  fill: none;
+  /*stroke: #1C9A3D;*/
+  stroke-width: 3.5px;
+}
+
+/* Tooltip CSS */
+.d3-tip {
+	line-height: 1.5;
+	font-weight: 400;
+	font-family:"avenir next", Arial, sans-serif;
+	padding: 6px;
+	background: rgba(0, 0, 0, 0.6);
+	color: #FFA500;
+	border-radius: 1px;
+	pointer-events: none;
+}
+
+.details{
+	color:white;
+}
+
+strong {
+	color: #FFA500;
+}
