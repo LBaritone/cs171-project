@@ -126,18 +126,25 @@
         <div class="section vis3_section">
             <div class = "row vis3select" align = "center">
                 <h2 id="vis3title" align = "center">And Opioid Deaths Are on the Rise</h2>
+                <div id = "vis3text" class = "vis3text col-md-6"></div>
             </div>
-            <div class="row">
-                <div id = "select2">
-                    <div class="user-control">
-                        <select id="y-category" class="form-control" onchange="updateLine()">
-                            <option value="default">Opioid Deaths</option>
-                            <option value="other">Deaths from other sources</option>
-                            <option value="Sex">Gender</option>
-                            <option value="Race">Race</option>
-                            <option value="Age">Age</option>
-                        </select>
-                    </div>
+            <div class="row row_no_margin">
+                <div id="select2" class="btn-group vis3_button_group" data-toggle="buttons">
+                    <label class="btn btn-primary active vis3_button">
+                        <input class="button_text" type="radio" name="options" id="option1" value="default" checked> Opioid Deaths
+                    </label>
+                    <label class="btn btn-primary vis3_button">
+                        <input class="button_text" type="radio" name="options" id="option2" value="other">Other Sources
+                    </label>
+                    <label class="btn btn-primary vis3_button">
+                        <input class="button_text" type="radio" name="options" id="option3" value="Sex">Gender
+                    </label>
+                    <label class="btn btn-primary vis3_button">
+                        <input class="button_text" type="radio" name="options" id="option4" value="Race">Race
+                    </label>
+                    <label class="btn btn-primary vis3_button">
+                        <input class="button_text" type="radio" name="options" id="option5" value="Age">Age
+                    </label>
                 </div>
             </div>
             <div class="row">

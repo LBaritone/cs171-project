@@ -134,15 +134,21 @@ function createLine(error,
         .transition()
         .duration(800)
         .attr("class", "axis-label")
-        .attr("transform", "translate(18, 120) rotate(270)")
+        .attr("transform", "translate(-50, 250) rotate(270)")
         .text("Number of Deaths");
 
-    updateLine()
+    updateLine("default")
 }
 
-function updateLine (){
-    cat = document.getElementById("y-category").value;
+$("#select2 :input").change(function() {
+    updateLine(this.value)
+});
+
+function updateLine (cat){
+    // cat = document.getElementById("y-category").value;
+    // cat = $('#select2 input:radio:checked').val()
     console.log(cat);
+
 
     // change data to map the number of deaths to variable
     if (cat == "default") {
@@ -522,7 +528,13 @@ function updateLine (){
                 
             })
             .attr("dy", ".35em")
-            .text(function(d, i) { return d[i]["Title"]; });
+            .text(function(d, i) { 
+                if ((cat == "Sex" || cat == "Race" || cat == "Age") && d[i]["Title"] == "Opioids") {
+                    return "All"
+                } 
+
+                return d[i]["Title"]; 
+            });
 
         count = -1;
         var last = "";

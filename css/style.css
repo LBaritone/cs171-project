@@ -106,9 +106,9 @@ iframe {
     align: "center";
 }
 
-#select2 {
-    max-width: 500px;
-    padding-left: 15em;
+.row_no_margin {
+    margin-left: 2em;
+    margin-right: 1em;
 }
 
 .spaced {
@@ -306,6 +306,23 @@ a {
     padding-left: 30px;
 }
 
+.vis3_button {
+    background-color: darkorange;
+    width: 19vw;
+    height: 50px;
+    font-size: 1.3em;
+    padding-top: 0.6em; 
+}
+
+.vis3_button:hover, 
+.vis3_button:focus, 
+.vis3_button:active, 
+.vis3_button.active, 
+.vis3_button:active:hover, 
+.vis3_button.active:hover,  
+.vis3_button:visited {
+    background-color: #ea8000;
+}
 
 @font-face {
     font-family: "Font Awesome";
