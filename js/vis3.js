@@ -605,7 +605,15 @@ function updateLine (cat){
 
         // append conjoining text to visualization with facts pertaining
         // to the current category
-        d3.select(".dynamic_text").remove();
+        d3.select(".dynamic_text")
+            .transition()
+                .style("opacity", 0)
+                .delay(500)
+                .ease(d3.easeLinear)
+            .remove();      
+
+        // d3.select(".dynamic_text").remove();
+
         d3.select(".vis3text")
             .append("p")     
             .attr("class", "dynamic_text")
@@ -625,7 +633,7 @@ function updateLine (cat){
             })
             .transition()
                 .style("opacity", 1)
-                .delay(1000)
+                .delay(800)
                 .ease(d3.easeLinear);                
 
 
