@@ -601,7 +601,32 @@ function updateLine (cat){
         //         .style("opacity", 1)
         //         .delay(1000)
         //         .ease(d3.easeLinear);
-                
+        
+
+        // append conjoining text to visualization with facts pertaining
+        // to the current category
+        d3.select(".dynamic_text").remove();
+        d3.select(".vis3text")
+            .append("p")     
+            .attr("class", "dynamic_text")
+            .style("opacity", 0)
+            .text(function() {
+                if (cat == "default") {
+                    return "compared to all drugs. "
+                } else if (cat == "other") {
+                    return "compared to other sources.";
+                } else if (cat == "Sex") {
+                    return "for both males and females.";
+                } else if (cat == "Race") {
+                    return "escpecially among caucasians.";
+                } else if (cat == "Age") {
+                    return "for adolescents and adults.";
+                }
+            })
+            .transition()
+                .style("opacity", 1)
+                .delay(1000)
+                .ease(d3.easeLinear);                
 
 
 }

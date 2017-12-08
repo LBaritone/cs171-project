@@ -47,26 +47,26 @@ var drug_container = document.getElementById('vis2drugs');
 
 function append_gun_icons(i) {
 	gun_container.insertAdjacentHTML('beforeend', '<i id="gun_icon_' + i + '" class="fa fa-male fa-4x" aria-hidden="true"></i>');
-	$('#gun_icon_' + i).css('visibility', 'visible').hide().fadeIn(600);
+	$('#gun_icon_' + i).css('visibility', 'visible').hide().fadeIn(150);
 
     if (--i > -1) {
-		setTimeout(function () { append_gun_icons(i); }, 200);
+		setTimeout(function () { append_gun_icons(i); }, 100);
     }
 }
 function append_car_icons(i) {
 	car_container.insertAdjacentHTML('beforeend', '<i id="car_icon_' + i + '" class="fa fa-male fa-4x" aria-hidden="true"></i>');
-	$('#car_icon_' + i).css('visibility', 'visible').hide().fadeIn(300);
+	$('#car_icon_' + i).css('visibility', 'visible').hide().fadeIn(250);
 
     if (--i > -1) {
-  		setTimeout(function () { append_car_icons(i); }, 100);
+  		setTimeout(function () { append_car_icons(i); }, 50);
     }
 }
 function append_drug_icons(i) {
 	drug_container.insertAdjacentHTML('beforeend', '<i id="drug_icon_' + i + '" class="fa fa-male fa-4x" aria-hidden="true"></i>');
-	$('#drug_icon_' + i).css('visibility', 'visible').hide().fadeIn(400);
+	$('#drug_icon_' + i).css('visibility', 'visible').hide().fadeIn(250);
 
     if (--i > -1) {
-		setTimeout(function () { append_drug_icons(i); }, 150);
+		setTimeout(function () { append_drug_icons(i); }, 50);
     }
 }
 
@@ -86,24 +86,24 @@ $(window).on("scroll.scroll1", function () {
 
 	if(window_middle > target_top && window_middle < target_bottom) {
 		setTimeout(function () { 
-			$('#gun_text').css('visibility', 'visible').hide().fadeIn(4000);
-			$('#vis2gun').css('visibility', 'visible').hide().fadeIn(6000);
+			$('#gun_text').css('visibility', 'visible').hide().fadeIn(2000);
+			$('#vis2gun').css('visibility', 'visible').hide().fadeIn(3000);
 			append_gun_icons(13);
 		}, 400);
 
 		setTimeout(function () { 
-			$('#car_text').css('visibility', 'visible').hide().fadeIn(4000);
-			$('#vis2car_icon').css('visibility', 'visible').hide().fadeIn(6000);
-			$('#car_row').css('background-color', '#4f5357').hide().fadeIn(2000);	
+			$('#car_text').css('visibility', 'visible').hide().fadeIn(2000);
+			$('#vis2car_icon').css('visibility', 'visible').hide().fadeIn(3000);
+			$('#car_row').css('background-color', '#4f5357').hide().fadeIn(1000);	
 			append_car_icons(38);
-		}, 3500);
+		}, 2000);
 
 		setTimeout(function () { 
-			$('#drug_text').css('visibility', 'visible').hide().fadeIn(4000);
-			$('#vis2can').css('visibility', 'visible').hide().fadeIn(6000);
-			$('#drug_row').css('background-color', '#464a4d').hide().fadeIn(2000);
+			$('#drug_text').css('visibility', 'visible').hide().fadeIn(2000);
+			$('#vis2can').css('visibility', 'visible').hide().fadeIn(3000);
+			$('#drug_row').css('background-color', '#464a4d').hide().fadeIn(1000);
 			append_drug_icons(52);
-		}, 7600);
+		}, 4600);
 
 		$(this).off('scroll.scroll1'); 
 	}

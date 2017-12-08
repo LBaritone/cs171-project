@@ -119,6 +119,14 @@ iframe {
     margin-top: -100px
 }
 
+#vis3text {
+    height: 3em;
+}
+
+#vis3 {
+    margin-top: 2.4em;
+}
+
 .title {
     color: whitesmoke;
     font-family: Verdana;
@@ -244,9 +252,11 @@ iframe {
 }
 
 .dynamic_text {
-    margin-top: 20%;
-    margin-right: 12%;
+    margin-top: -6%;
+    /*margin-left: 43%;*/
+    text-align: middle;
     font-size: 2em;
+    width: 100vw;
 }
 
 .input {
