@@ -335,7 +335,75 @@ a {
     background-color: #ea8000;
 }
 
+
+
+/* auto expand */
+
+/*#auto_expand {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#auto_expand {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  background-color: #eee;
+  
+  .row {
+    flex: 1;
+    text-align: center;
+    transition: .3s;
+    max-width: 20%;
+    padding: 8em 0;
+    background-color: #ccc;
+    min-width: 10%;
+
+    .row:hover{
+      transition: .5s;
+      max-width: 40% !important;
+      background: #333;
+      flex-grow: 2;
+      cursor: pointer;
+      color: #fff;
+    }
+  }
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @font-face {
     font-family: "Font Awesome";
     src: url(font-awsome-4.7.0/fonts/fontawesome-webfont.ttf) format("truetype");
 }
+
+
+
+
+
+
+
+
+
+
+
+
